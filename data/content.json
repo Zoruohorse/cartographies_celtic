@@ -1,0 +1,86 @@
+{
+  "griefs": [
+    {
+      "id": "grief_001",
+      "icon": "⏱️",
+      "title": "Retard du projet",
+      "text": "Point de vigilance structurant. La mise en service initiale est repoussée vers fin 2028 / Q4 2028, avec un fort risque de nouveau décalage lié aux conditions météorologiques et maritimes.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_002",
+      "icon": "💶",
+      "title": "Dérapage des coûts",
+      "text": "Point de vigilance structurant. Une explosion budgétaire est anticipée : le projet passerait d’environ 1,62 Md€ à plus de 2 Md€, voire jusqu'à 2,8 Md€ selon l'analyste Alan McSweeney.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_003",
+      "icon": "💳",
+      "title": "Impact pour les consommateurs",
+      "text": "Point de vigilance structurant. Les surcoûts colossaux risquent d'être directement intégrés aux charges de réseau par la CRU, impactant lourdement la facture des usagers finaux irlandais.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_004",
+      "icon": "⚡",
+      "title": "Sécurité d’approvisionnement",
+      "text": "Point de vigilance structurant. La fragilité structurelle du réseau irlandais, très dépendant au gaz importé, rend les retards de l'interconnexion particulièrement critiques.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_005",
+      "icon": "📈",
+      "title": "Croissance de la demande",
+      "text": "Point de vigilance structurant. La demande électrique irlandaise explose, portée de façon disproportionnée par la prolifération incontrôlée des méga data centers.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_006",
+      "icon": "⚖️",
+      "title": "Gouvernance bretonne",
+      "text": "Point de vigilance territorial. Certains passages documentaires estiment que la Bretagne accueille et subit une lourde infrastructure décidée selon des logiques européennes et parisiennes sans réel contrôle démocratique local.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_007",
+      "icon": "🌐",
+      "title": "Arbitrages de marché",
+      "text": "Point de vigilance économique. Les experts craignent que les flux d’électricité suivent uniquement les zones les plus rentables du marché spot européen, privant les territoires d'accueil de bénéfices locaux réels.",
+      "evidence_ids": []
+    },
+    {
+      "id": "grief_008",
+      "icon": "⚓",
+      "title": "Contraintes environnementales",
+      "text": "Point de vigilance technique. Le fond marin hostile nécessite des techniques complexes (ensouillage, protection lourde des câbles) tout en affrontant la problématique de l'emprise sur les zones humides.",
+      "evidence_ids": []
+    }
+  ],
+  "vigilance": [
+    {
+      "id": "vigilance_001",
+      "title": "Brouillard Financier",
+      "text": "Des contradictions majeures subsistent dans les rapports sur le montant réel de la subvention européenne (variant de 530 à 800 M€ selon les sources), témoignant d'une communication financière instable.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_002",
+      "title": "Explosion Budgétaire (EirGrid)",
+      "text": "Les analyses indépendantes (A. McSweeney) évaluent la dérive financière du projet à potentiellement +1 Md€, ce qui pèsera mécaniquement sur la CRU et les usagers irlandais.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_003",
+      "title": "Boucle des Data Centers",
+      "text": "La nécessité de l'interconnexion (côté irlandais) est paradoxalement renforcée par la demande boulimique du secteur des data centers, dont les collectifs (Uplift) dénoncent violemment l'impact.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_004",
+      "title": "Facteur Maritime Imprévisible",
+      "text": "Le calendrier repose sur la viabilité des opérations complexes en Mer Celtique par Van Oord et Nexans ; or, la rudesse des fonds marins a déjà provoqué de lourds retards juste au démarrage, motivant le report à fin 2028.",
+      "evidence_ids": []
+    }
+  ]
+}

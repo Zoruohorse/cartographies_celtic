@@ -1,0 +1,137 @@
+[
+  {
+    "id": "source_0001",
+    "title": "news.google.com",
+    "publisher": "news.google.com",
+    "description": "news.google.com : Agrégateur / reprise de presse. Source de nombreuses reprises d’articles du corpus.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "The Irish Times",
+    "publisher": "The Irish Times",
+    "description": "The Irish Times : Presse irlandaise. Article sur les coûts directs et structurels possibles liés aux retards.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "Irish Examiner",
+    "publisher": "Irish Examiner",
+    "description": "Irish Examiner : Presse irlandaise. Articles sur les retards, l’absence de clarté, les impacts prix et la sécurité énergétique.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "Offshore Energy",
+    "publisher": "Offshore Energy",
+    "description": "Offshore Energy : Média spécialisé énergie offshore. Articles sur les étapes techniques : tirage, station, pose de câbles.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "La Tribune",
+    "publisher": "La Tribune",
+    "description": "La Tribune : Média économique français. Article sur l’ensouillage côté français et l’avancement du chantier terrestre.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "TF1 Info",
+    "publisher": "TF1 Info",
+    "description": "TF1 Info : Média national français. Reportage grand public sur le chantier de pose en mer et l’intérêt énergétique pour la Bretagne.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "Breizh-info.com",
+    "publisher": "Breizh-info.com",
+    "description": "Breizh-info.com : Média régional / politique breton. Article sur la station de conversion et la souveraineté énergétique européenne.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0008",
+    "title": "Voiries et Réseaux",
+    "publisher": "Voiries et Réseaux",
+    "description": "Voiries et Réseaux : Média professionnel travaux / infrastructures. Article sur la station de conversion de La Martyre et le rôle de NGE.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0009",
+    "title": "Silicon Republic",
+    "publisher": "Silicon Republic",
+    "description": "Silicon Republic : Média tech / innovation irlandais. Article sur l’étape franchie dans le projet et la station Ar Merzher.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0010",
+    "title": "Afloat.ie",
+    "publisher": "Afloat.ie",
+    "description": "Afloat.ie : Média maritime irlandais. Notices maritimes sur les opérations de câbles, réparations, sécurité maritime.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0011",
+    "title": "Mer et Marine",
+    "publisher": "Mer et Marine",
+    "description": "Mer et Marine : Média maritime français. Articles sur les navires câbliers et campagnes d’études en mer.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0012",
+    "title": "Révolution Énergétique",
+    "publisher": "Révolution Énergétique",
+    "description": "Révolution Énergétique : Média énergie. Article sur le début de pose côté français et le coût du projet.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0013",
+    "title": "ABP / Agence Bretagne Presse",
+    "publisher": "ABP / Agence Bretagne Presse",
+    "description": "ABP / Agence Bretagne Presse : Média breton. Article de 2019 sur la concertation et commentaires de lecteurs.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0014",
+    "title": "Capital.fr",
+    "publisher": "Capital.fr",
+    "description": "Capital.fr : Média économique. Mention du contrat Assystem / CIDAC.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0015",
+    "title": "Cork Chamber / EirGrid communication",
+    "publisher": "Cork Chamber / EirGrid communication",
+    "description": "Cork Chamber / EirGrid communication : Source institutionnelle / économique locale. Relais des financements communautaires accordés en East Cork.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  }
+]
