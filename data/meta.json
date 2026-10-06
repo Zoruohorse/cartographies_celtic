@@ -1,0 +1,64 @@
+{
+  "id": "project_celtic",
+  "title": "Cartographie interactive — Celtic Interconnector",
+  "subtitle": "Projet d’interconnexion électrique sous-marine entre la France et l’Irlande, avec enjeux de calendrier, coûts, sécurité d’approvisionnement et impacts consommateurs.",
+  "last_updated": "2026-10-02",
+  "data_notice": "Les éléments sont repris des deux fichiers fournis. Les URL exactes et contradictions documentaires restent à qualifier.",
+  "griefs": [
+    {
+      "title": "⏱️ Retard du projet",
+      "text": "Point de vigilance structurant. La mise en service initiale est repoussée vers fin 2028 / Q4 2028, avec un fort risque de nouveau décalage lié aux conditions météorologiques et maritimes."
+    },
+    {
+      "title": "💶 Dérapage des coûts",
+      "text": "Point de vigilance structurant. Une explosion budgétaire est anticipée : le projet passerait d’environ 1,62 Md€ à plus de 2 Md€, voire jusqu'à 2,8 Md€ selon l'analyste Alan McSweeney."
+    },
+    {
+      "title": "💳 Impact pour les consommateurs",
+      "text": "Point de vigilance structurant. Les surcoûts colossaux risquent d'être directement intégrés aux charges de réseau par la CRU, impactant lourdement la facture des usagers finaux irlandais."
+    },
+    {
+      "title": "⚡ Sécurité d’approvisionnement",
+      "text": "Point de vigilance structurant. La fragilité structurelle du réseau irlandais, très dépendant au gaz importé, rend les retards de l'interconnexion particulièrement critiques."
+    },
+    {
+      "title": "📈 Croissance de la demande",
+      "text": "Point de vigilance structurant. La demande électrique irlandaise explose, portée de façon disproportionnée par la prolifération incontrôlée des méga data centers."
+    },
+    {
+      "title": "⚖️ Gouvernance bretonne",
+      "text": "Point de vigilance territorial. Certains passages documentaires estiment que la Bretagne accueille et subit une lourde infrastructure décidée selon des logiques européennes et parisiennes sans réel contrôle démocratique local."
+    },
+    {
+      "title": "🌐 Arbitrages de marché",
+      "text": "Point de vigilance économique. Les experts craignent que les flux d’électricité suivent uniquement les zones les plus rentables du marché spot européen, privant les territoires d'accueil de bénéfices locaux réels."
+    },
+    {
+      "title": "⚓ Contraintes environnementales",
+      "text": "Point de vigilance technique. Le fond marin hostile nécessite des techniques complexes (ensouillage, protection lourde des câbles) tout en affrontant la problématique de l'emprise sur les zones humides."
+    }
+  ],
+  "vigilance": [
+    "Brouillard Financier : Des contradictions majeures subsistent dans les rapports sur le montant réel de la subvention européenne (variant de 530 à 800 M€ selon les sources), témoignant d'une communication financière instable.",
+    "Explosion Budgétaire (EirGrid) : Les analyses indépendantes (A. McSweeney) évaluent la dérive financière du projet à potentiellement +1 Md€, ce qui pèsera mécaniquement sur la CRU et les usagers irlandais.",
+    "Boucle des Data Centers : La nécessité de l'interconnexion (côté irlandais) est paradoxalement renforcée par la demande boulimique du secteur des data centers, dont les collectifs (Uplift) dénoncent violemment l'impact.",
+    "Facteur Maritime Imprévisible : Le calendrier repose sur la viabilité des opérations complexes en Mer Celtique par Van Oord et Nexans ; or, la rudesse des fonds marins a déjà provoqué de lourds retards juste au démarrage, motivant le report à fin 2028."
+  ],
+  "source_descriptions": [
+    "news.google.com : Agrégateur / reprise de presse. Source de nombreuses reprises d’articles du corpus.",
+    "The Irish Times : Presse irlandaise. Article sur les coûts directs et structurels possibles liés aux retards.",
+    "Irish Examiner : Presse irlandaise. Articles sur les retards, l’absence de clarté, les impacts prix et la sécurité énergétique.",
+    "Offshore Energy : Média spécialisé énergie offshore. Articles sur les étapes techniques : tirage, station, pose de câbles.",
+    "La Tribune : Média économique français. Article sur l’ensouillage côté français et l’avancement du chantier terrestre.",
+    "TF1 Info : Média national français. Reportage grand public sur le chantier de pose en mer et l’intérêt énergétique pour la Bretagne.",
+    "Breizh-info.com : Média régional / politique breton. Article sur la station de conversion et la souveraineté énergétique européenne.",
+    "Voiries et Réseaux : Média professionnel travaux / infrastructures. Article sur la station de conversion de La Martyre et le rôle de NGE.",
+    "Silicon Republic : Média tech / innovation irlandais. Article sur l’étape franchie dans le projet et la station Ar Merzher.",
+    "Afloat.ie : Média maritime irlandais. Notices maritimes sur les opérations de câbles, réparations, sécurité maritime.",
+    "Mer et Marine : Média maritime français. Articles sur les navires câbliers et campagnes d’études en mer.",
+    "Révolution Énergétique : Média énergie. Article sur le début de pose côté français et le coût du projet.",
+    "ABP / Agence Bretagne Presse : Média breton. Article de 2019 sur la concertation et commentaires de lecteurs.",
+    "Capital.fr : Média économique. Mention du contrat Assystem / CIDAC.",
+    "Cork Chamber / EirGrid communication : Source institutionnelle / économique locale. Relais des financements communautaires accordés en East Cork."
+  ]
+}
