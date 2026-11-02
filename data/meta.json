@@ -1,48 +1,138 @@
 {
   "id": "project_celtic",
   "title": "Cartographie interactive — Celtic Interconnector",
-  "subtitle": "Projet d’interconnexion électrique sous-marine entre la France et l’Irlande, avec enjeux de calendrier, coûts, sécurité d’approvisionnement et impacts consommateurs.",
-  "last_updated": "2026-10-02",
-  "data_notice": "Les éléments sont repris des deux fichiers fournis. Les URL exactes et contradictions documentaires restent à qualifier.",
+  "subtitle": "Interconnexion France–Irlande de 700 MW ; mise en service annoncée fin 2028 (sous réserve), pause des opérations maritimes françaises jusqu’au printemps 2027.",
+  "last_updated": "2026-11-02",
+  "data_notice": "Évolutions sourcées exclusivement dans MAJ Celtic Interconnector.xlsx (93 ressources examinées) ; les articles n’ont pas été consultés directement sur leurs sites. Les liens correspondent aux URL transmises. Les coûts prévisionnels et estimations indépendantes ne sont pas confondus.",
   "griefs": [
     {
-      "title": "⏱️ Retard du projet",
-      "text": "Point de vigilance structurant. La mise en service initiale est repoussée vers fin 2028 / Q4 2028, avec un fort risque de nouveau décalage lié aux conditions météorologiques et maritimes."
+      "title": "⏱️ Décalage de la mise en service",
+      "text": "Fin 2028 / T4 2028 annoncé en avril 2026. Les contraintes industrielles et les opérations maritimes demeurent sensibles aux conditions météorologiques.",
+      "evidence_ids": [
+        "evidence_0115",
+        "evidence_0116",
+        "evidence_0117",
+        "evidence_0118",
+        "evidence_0119",
+        "evidence_0120",
+        "evidence_0114"
+      ],
+      "source_ids": [
+        "source_0031",
+        "source_0038"
+      ]
     },
     {
-      "title": "💶 Dérapage des coûts",
-      "text": "Point de vigilance structurant. Une explosion budgétaire est anticipée : le projet passerait d’environ 1,62 Md€ à plus de 2 Md€, voire jusqu'à 2,8 Md€ selon l'analyste Alan McSweeney."
+      "title": "⚓ Pause des opérations en mer côté français",
+      "text": "Après 98 km posés au printemps 2026, les opérations d’ensouillage sont interrompues jusqu’au printemps 2027 : météo, fonds marins plus complexes, recours éventuel à l’enrochement.",
+      "evidence_ids": [
+        "evidence_0104",
+        "evidence_0105",
+        "evidence_0106"
+      ],
+      "source_ids": [
+        "source_0018",
+        "source_0021"
+      ]
     },
     {
-      "title": "💳 Impact pour les consommateurs",
-      "text": "Point de vigilance structurant. Les surcoûts colossaux risquent d'être directement intégrés aux charges de réseau par la CRU, impactant lourdement la facture des usagers finaux irlandais."
+      "title": "💶 Coût de référence et dépassements potentiels",
+      "text": "Référence régulatoire 2022 : 1,48 Md€ + 141 M€ de provisions. Les estimations médiatiques pouvant dépasser 2 Md€ restent des scénarios, non un budget final approuvé.",
+      "evidence_ids": [
+        "evidence_0144",
+        "evidence_0145"
+      ],
+      "source_ids": [
+        "source_0049"
+      ]
     },
     {
-      "title": "⚡ Sécurité d’approvisionnement",
-      "text": "Point de vigilance structurant. La fragilité structurelle du réseau irlandais, très dépendant au gaz importé, rend les retards de l'interconnexion particulièrement critiques."
+      "title": "💳 Consommateurs irlandais",
+      "text": "Les retards privent les consommateurs des gains potentiels de diversification et de sécurité. La répercussion de surcoûts sur les tarifs dépend de décisions réglementaires et n’est pas établie comme certaine.",
+      "evidence_ids": [
+        "evidence_0115",
+        "evidence_0116",
+        "evidence_0117",
+        "evidence_0118",
+        "evidence_0119",
+        "evidence_0120",
+        "evidence_0144",
+        "evidence_0145"
+      ],
+      "source_ids": [
+        "source_0031",
+        "source_0049"
+      ]
     },
     {
-      "title": "📈 Croissance de la demande",
-      "text": "Point de vigilance structurant. La demande électrique irlandaise explose, portée de façon disproportionnée par la prolifération incontrôlée des méga data centers."
+      "title": "⚡ Dépendance au gaz et sécurité d’approvisionnement",
+      "text": "Les experts cités soulignent la dépendance irlandaise aux importations de gaz et l’intérêt d’une liaison bidirectionnelle avec la France.",
+      "evidence_ids": [
+        "evidence_0115",
+        "evidence_0116",
+        "evidence_0117",
+        "evidence_0118",
+        "evidence_0119",
+        "evidence_0120",
+        "evidence_0110"
+      ],
+      "source_ids": [
+        "source_0031",
+        "source_0032"
+      ]
     },
     {
-      "title": "⚖️ Gouvernance bretonne",
-      "text": "Point de vigilance territorial. Certains passages documentaires estiment que la Bretagne accueille et subit une lourde infrastructure décidée selon des logiques européennes et parisiennes sans réel contrôle démocratique local."
+      "title": "📈 Demande électrique et data centers",
+      "text": "Paul Leahy estime que la croissance de la demande des data centers rend plus critique le retard d’interconnexion. Il ne s’agit pas d’un motif d’opposition à Celtic.",
+      "evidence_ids": [
+        "evidence_0115",
+        "evidence_0116",
+        "evidence_0117",
+        "evidence_0118",
+        "evidence_0119",
+        "evidence_0120"
+      ],
+      "source_ids": [
+        "source_0031"
+      ]
     },
     {
-      "title": "🌐 Arbitrages de marché",
-      "text": "Point de vigilance économique. Les experts craignent que les flux d’électricité suivent uniquement les zones les plus rentables du marché spot européen, privant les territoires d'accueil de bénéfices locaux réels."
+      "title": "🏭 Chantiers et sous-traitance",
+      "text": "La station Ar Merzher est portée techniquement par NGE et Siemens ; Eiffage, DLE Ouest et Nexans interviennent sur les câbles terrestres ; Sorensen intervient côté irlandais.",
+      "evidence_ids": [
+        "evidence_0130",
+        "evidence_0133",
+        "evidence_0134",
+        "evidence_0135",
+        "evidence_0125",
+        "evidence_0126"
+      ],
+      "source_ids": [
+        "source_0028",
+        "source_0030",
+        "source_0044"
+      ]
     },
     {
-      "title": "⚓ Contraintes environnementales",
-      "text": "Point de vigilance technique. Le fond marin hostile nécessite des techniques complexes (ensouillage, protection lourde des câbles) tout en affrontant la problématique de l'emprise sur les zones humides."
+      "title": "🤝 Retombées locales et solidarité territoriale",
+      "text": "EirGrid mobilise un fonds communautaire annoncé à 2,4 M€ ; l’organisation de contributions est distinguée d’une approbation du projet par chaque bénéficiaire.",
+      "evidence_ids": [
+        "evidence_0123",
+        "evidence_0124"
+      ],
+      "source_ids": [
+        "source_0041",
+        "source_0045"
+      ]
     }
   ],
   "vigilance": [
-    "Brouillard Financier : Des contradictions majeures subsistent dans les rapports sur le montant réel de la subvention européenne (variant de 530 à 800 M€ selon les sources), témoignant d'une communication financière instable.",
-    "Explosion Budgétaire (EirGrid) : Les analyses indépendantes (A. McSweeney) évaluent la dérive financière du projet à potentiellement +1 Md€, ce qui pèsera mécaniquement sur la CRU et les usagers irlandais.",
-    "Boucle des Data Centers : La nécessité de l'interconnexion (côté irlandais) est paradoxalement renforcée par la demande boulimique du secteur des data centers, dont les collectifs (Uplift) dénoncent violemment l'impact.",
-    "Facteur Maritime Imprévisible : Le calendrier repose sur la viabilité des opérations complexes en Mer Celtique par Van Oord et Nexans ; or, la rudesse des fonds marins a déjà provoqué de lourds retards juste au démarrage, motivant le report à fin 2028."
+    "Calendrier : le printemps 2028 mentionné dans un bulletin antérieur et le T4 2028 annoncé en avril 2026 correspondent à des révisions successives ; aucune date ferme de mise en service postérieure à la pause d’automne 2026 n’est prouvée par le lot.",
+    "Coûts : 1,48 Md€ plus 141 M€ de provisions constituent le budget de référence 2022, non une estimation définitive 2026. Le seuil de 2–2,8 Md€ n’est pas un coût contractualisé et ne doit pas être présenté comme tel.",
+    "Financement : 530 M€ de subvention européenne sont explicitement documentés dans le communiqué de la Commission européenne de 2022. Les mentions concurrentes de 800 M€ dans les synthèses historiques ne sont pas étayées par une pièce équivalente.",
+    "Positionnement : Malcolm Byrne, Barry Hayes, Paul Cuffe et Paul Leahy critiquent les retards ou coûts, mais cela ne démontre aucune opposition à la liaison ; la position globale doit être qualifiée sans amalgame.",
+    "Maritime : les campagnes de pose, d’ensouillage et les opérations ponctuelles de réparation sont distinctes. Une réparation signalée en mars 2026 ne prouve pas à elle seule une panne de l’interconnexion en service.",
+    "Territoires : les prises de position générales contre l’hyper-centralisation ou les data centers ne démontrent pas une opposition formelle au tracé précis Celtic et restent hors des fiches acteurs sans preuve nominative."
   ],
   "source_descriptions": [
     "news.google.com : Agrégateur / reprise de presse. Source de nombreuses reprises d’articles du corpus.",
@@ -60,5 +150,282 @@
     "ABP / Agence Bretagne Presse : Média breton. Article de 2019 sur la concertation et commentaires de lecteurs.",
     "Capital.fr : Média économique. Mention du contrat Assystem / CIDAC.",
     "Cork Chamber / EirGrid communication : Source institutionnelle / économique locale. Relais des financements communautaires accordés en East Cork."
+  ],
+  "vigilance_evidence_ids": [
+    [
+      "evidence_0104",
+      "evidence_0105",
+      "evidence_0114",
+      "evidence_0115",
+      "evidence_0116",
+      "evidence_0117",
+      "evidence_0118",
+      "evidence_0119",
+      "evidence_0120"
+    ],
+    [
+      "evidence_0144",
+      "evidence_0145"
+    ],
+    [
+      "evidence_0111",
+      "evidence_0112",
+      "evidence_0113",
+      "evidence_0141",
+      "evidence_0142",
+      "evidence_0143"
+    ],
+    [
+      "evidence_0115",
+      "evidence_0116",
+      "evidence_0117",
+      "evidence_0118",
+      "evidence_0119",
+      "evidence_0120"
+    ],
+    [
+      "evidence_0104",
+      "evidence_0105",
+      "evidence_0128"
+    ],
+    [
+      "evidence_0115",
+      "evidence_0116",
+      "evidence_0117",
+      "evidence_0118",
+      "evidence_0119",
+      "evidence_0120"
+    ]
+  ],
+  "documented_project_updates": [
+    {
+      "title": "Escales et moyens de pose",
+      "text": "Le navire Île de Molène est signalé à Brest en octobre 2026 après une campagne liée à Celtic, sans établir de rôle de sous-traitant durable.",
+      "evidence_ids": [
+        "evidence_0148"
+      ]
+    }
+  ],
+  "update_history": [
+    {
+      "date": "2026-11-02",
+      "input": "MAJ Celtic Interconnector.xlsx",
+      "reviewed": 93,
+      "source_ids": [
+        "source_0016",
+        "source_0017",
+        "source_0018",
+        "source_0019",
+        "source_0020",
+        "source_0021",
+        "source_0022",
+        "source_0023",
+        "source_0024",
+        "source_0025",
+        "source_0026",
+        "source_0027",
+        "source_0028",
+        "source_0029",
+        "source_0030",
+        "source_0031",
+        "source_0032",
+        "source_0033",
+        "source_0034",
+        "source_0035",
+        "source_0036",
+        "source_0037",
+        "source_0038",
+        "source_0040",
+        "source_0041",
+        "source_0042",
+        "source_0043",
+        "source_0044",
+        "source_0045",
+        "source_0046",
+        "source_0047",
+        "source_0049",
+        "source_0050",
+        "source_0051"
+      ],
+      "evidence_ids": [
+        "evidence_0104",
+        "evidence_0105",
+        "evidence_0106",
+        "evidence_0107",
+        "evidence_0108",
+        "evidence_0109",
+        "evidence_0110",
+        "evidence_0111",
+        "evidence_0112",
+        "evidence_0113",
+        "evidence_0114",
+        "evidence_0115",
+        "evidence_0116",
+        "evidence_0117",
+        "evidence_0118",
+        "evidence_0119",
+        "evidence_0120",
+        "evidence_0121",
+        "evidence_0122",
+        "evidence_0123",
+        "evidence_0124",
+        "evidence_0125",
+        "evidence_0126",
+        "evidence_0127",
+        "evidence_0128",
+        "evidence_0129",
+        "evidence_0130",
+        "evidence_0131",
+        "evidence_0132",
+        "evidence_0133",
+        "evidence_0134",
+        "evidence_0135",
+        "evidence_0136",
+        "evidence_0137",
+        "evidence_0138",
+        "evidence_0139",
+        "evidence_0140",
+        "evidence_0141",
+        "evidence_0142",
+        "evidence_0143",
+        "evidence_0144",
+        "evidence_0145",
+        "evidence_0146",
+        "evidence_0147",
+        "evidence_0148",
+        "evidence_0149",
+        "evidence_0150",
+        "evidence_0151",
+        "evidence_0152"
+      ],
+      "claims_updated": [
+        {
+          "id": "claim_0001",
+          "subject_id": "actor_0001",
+          "old_value": "opposed",
+          "new_value": "neutral",
+          "old_summary": "Critique / inquiet sur le manque de clarté du calendrier et l’impact possible sur les objectifs offshore.",
+          "new_summary": "Interroge le gouvernement sur le calendrier et critique le manque de transparence des retards ; aucune opposition au principe de Celtic n’est attestée. Position qualifiée comme critique de la conduite du projet, non opposant au câble."
+        },
+        {
+          "id": "claim_0032",
+          "subject_id": "actor_0032",
+          "old_value": "opposed",
+          "new_value": "favorable",
+          "old_summary": "Juge le retard extrêmement défavorable aux consommateurs, bien qu'il reconnaisse l'utilité du câble.",
+          "new_summary": "Déplore les retards et juge Celtic bénéfique à la sécurité d’approvisionnement et aux consommateurs irlandais ; appelle à une mise en service rapide."
+        },
+        {
+          "id": "claim_0033",
+          "subject_id": "actor_0033",
+          "old_value": "opposed",
+          "new_value": "favorable",
+          "old_summary": "Expert énergie très contrarié par la dérive du calendrier.",
+          "new_summary": "Juge le retard frustrant et défend l’interconnexion comme protection contre les hausses de prix du gaz et les risques sur les gazoducs."
+        },
+        {
+          "id": "claim_0034",
+          "subject_id": "actor_0034",
+          "old_value": "opposed",
+          "new_value": "neutral",
+          "old_summary": "Expert éolien, inquiet du risque de déséquilibre entre offre et demande électrique.",
+          "new_summary": "Alerte sur les conséquences du retard pour la sécurité électrique irlandaise et la demande liée aux data centers, sans prise de position opposée au projet."
+        },
+        {
+          "id": "claim_0035",
+          "subject_id": "actor_0035",
+          "old_value": "favorable",
+          "new_value": "neutral",
+          "old_summary": "Soutien politique à la coopération entre l’Irlande, la Bretagne et les nations celtiques.",
+          "new_summary": "Cite Celtic comme exemple de coopération Irlande–Bretagne ; le document ne contient pas d’aval explicite du tracé, du calendrier ou du financement."
+        },
+        {
+          "id": "claim_0030",
+          "subject_id": "actor_0030",
+          "old_value": "neutral",
+          "new_value": "favorable",
+          "old_summary": "Autorité de régulation veillant à l'impact des coûts sur les charges de réseau.",
+          "new_summary": "La CRU confirme conjointement avec la CRE la poursuite de l’investissement dans Celtic et la répartition des coûts en 2022. Soutien réglementaire au financement, sans position territoriale."
+        }
+      ],
+      "relations_updated": [
+        {
+          "id": "relation_position_claim_0001",
+          "old_type": "opposes",
+          "new_type": "position_on"
+        },
+        {
+          "id": "relation_position_claim_0030",
+          "old_type": "position_on",
+          "new_type": "supports"
+        },
+        {
+          "id": "relation_position_claim_0032",
+          "old_type": "opposes",
+          "new_type": "supports"
+        },
+        {
+          "id": "relation_position_claim_0033",
+          "old_type": "opposes",
+          "new_type": "supports"
+        },
+        {
+          "id": "relation_position_claim_0034",
+          "old_type": "opposes",
+          "new_type": "position_on"
+        },
+        {
+          "id": "relation_position_claim_0035",
+          "old_type": "supports",
+          "new_type": "position_on"
+        }
+      ],
+      "previous_meta": {
+        "subtitle": "Projet d’interconnexion électrique sous-marine entre la France et l’Irlande, avec enjeux de calendrier, coûts, sécurité d’approvisionnement et impacts consommateurs.",
+        "griefs": [
+          {
+            "title": "⏱️ Retard du projet",
+            "text": "Point de vigilance structurant. La mise en service initiale est repoussée vers fin 2028 / Q4 2028, avec un fort risque de nouveau décalage lié aux conditions météorologiques et maritimes."
+          },
+          {
+            "title": "💶 Dérapage des coûts",
+            "text": "Point de vigilance structurant. Une explosion budgétaire est anticipée : le projet passerait d’environ 1,62 Md€ à plus de 2 Md€, voire jusqu'à 2,8 Md€ selon l'analyste Alan McSweeney."
+          },
+          {
+            "title": "💳 Impact pour les consommateurs",
+            "text": "Point de vigilance structurant. Les surcoûts colossaux risquent d'être directement intégrés aux charges de réseau par la CRU, impactant lourdement la facture des usagers finaux irlandais."
+          },
+          {
+            "title": "⚡ Sécurité d’approvisionnement",
+            "text": "Point de vigilance structurant. La fragilité structurelle du réseau irlandais, très dépendant au gaz importé, rend les retards de l'interconnexion particulièrement critiques."
+          },
+          {
+            "title": "📈 Croissance de la demande",
+            "text": "Point de vigilance structurant. La demande électrique irlandaise explose, portée de façon disproportionnée par la prolifération incontrôlée des méga data centers."
+          },
+          {
+            "title": "⚖️ Gouvernance bretonne",
+            "text": "Point de vigilance territorial. Certains passages documentaires estiment que la Bretagne accueille et subit une lourde infrastructure décidée selon des logiques européennes et parisiennes sans réel contrôle démocratique local."
+          },
+          {
+            "title": "🌐 Arbitrages de marché",
+            "text": "Point de vigilance économique. Les experts craignent que les flux d’électricité suivent uniquement les zones les plus rentables du marché spot européen, privant les territoires d'accueil de bénéfices locaux réels."
+          },
+          {
+            "title": "⚓ Contraintes environnementales",
+            "text": "Point de vigilance technique. Le fond marin hostile nécessite des techniques complexes (ensouillage, protection lourde des câbles) tout en affrontant la problématique de l'emprise sur les zones humides."
+          }
+        ],
+        "vigilance": [
+          "Brouillard Financier : Des contradictions majeures subsistent dans les rapports sur le montant réel de la subvention européenne (variant de 530 à 800 M€ selon les sources), témoignant d'une communication financière instable.",
+          "Explosion Budgétaire (EirGrid) : Les analyses indépendantes (A. McSweeney) évaluent la dérive financière du projet à potentiellement +1 Md€, ce qui pèsera mécaniquement sur la CRU et les usagers irlandais.",
+          "Boucle des Data Centers : La nécessité de l'interconnexion (côté irlandais) est paradoxalement renforcée par la demande boulimique du secteur des data centers, dont les collectifs (Uplift) dénoncent violemment l'impact.",
+          "Facteur Maritime Imprévisible : Le calendrier repose sur la viabilité des opérations complexes en Mer Celtique par Van Oord et Nexans ; or, la rudesse des fonds marins a déjà provoqué de lourds retards juste au démarrage, motivant le report à fin 2028."
+        ],
+        "data_notice": "Les éléments sont repris des deux fichiers fournis. Les URL exactes et contradictions documentaires restent à qualifier.",
+        "last_updated": "2026-10-02"
+      },
+      "method": "Deltas justifiés par l'Excel ; les URLs transmises n'ont pas été visitées."
+    }
   ]
 }

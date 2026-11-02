@@ -545,7 +545,7 @@
   },
   {
     "id": "actor_0034",
-    "type": "organization",
+    "type": "person",
     "name": "Paul Leahy",
     "short_name": "Paul Leahy",
     "description": "Maître de conférences (UCC)",
@@ -557,11 +557,11 @@
     "categories": [
       "opposants"
     ],
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "actor_0035",
-    "type": "organization",
+    "type": "person",
     "name": "Frank Feighan",
     "short_name": "Frank Feighan",
     "description": "Ministre d’État irlandais chargé notamment de la numérisation",
@@ -573,7 +573,7 @@
     "categories": [
       "elus-fav"
     ],
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "actor_0036",
@@ -958,5 +958,149 @@
       "griefs"
     ],
     "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0037",
+    "type": "person",
+    "name": "Anne-Laure Fontanaud",
+    "short_name": "Anne-Laure Fontanaud",
+    "description": "Chargée de communication RTE ; explique les contraintes d’études et d’ensouillage côté breton.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "Commission de régulation de l’énergie (CRE)",
+    "short_name": "Commission de régulation de l’énergie (CRE)",
+    "description": "Régulateur français participant avec la CRU à la décision de poursuite du financement de Celtic en novembre 2022.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0039",
+    "type": "person",
+    "name": "Mark Foley",
+    "short_name": "Mark Foley",
+    "description": "Directeur général d’EirGrid ; signe un protocole de coopération offshore avec RTE.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0040",
+    "type": "person",
+    "name": "Xavier Piechaczyk",
+    "short_name": "Xavier Piechaczyk",
+    "description": "Président du directoire de RTE lors de la signature d’un protocole de coopération avec EirGrid.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0041",
+    "type": "person",
+    "name": "Michael Mahon",
+    "short_name": "Michael Mahon",
+    "description": "Directeur des infrastructures d’EirGrid lors du lancement du chantier en Irlande.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0042",
+    "type": "person",
+    "name": "Michael Behan",
+    "short_name": "Michael Behan",
+    "description": "Directeur financier d’EirGrid ; rend compte des progrès du chantier en 2025.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0043",
+    "type": "person",
+    "name": "Kadri Simson",
+    "short_name": "Kadri Simson",
+    "description": "Commissaire européenne à l’Énergie en 2022 ; soutien public à Celtic comme projet d’intérêt commun.",
+    "roles": [],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0044",
+    "type": "organization",
+    "name": "Sorensen Civil Engineering Ltd",
+    "short_name": "Sorensen Civil Engineering Ltd",
+    "description": "Sous-traitant de Nexans pour la liaison souterraine côté irlandais en East Cork.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0045",
+    "type": "organization",
+    "name": "Green Rebel",
+    "short_name": "Green Rebel",
+    "description": "Entreprise mandatée par Nexans pour les études géophysiques et le repérage UXO sur le tracé sous-marin.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0046",
+    "type": "person",
+    "name": "Agnès Pannier-Runacher",
+    "short_name": "Agnès Pannier-Runacher",
+    "description": "Ministre française de la Transition énergétique lors des cérémonies de signature 2022-2023 du projet.",
+    "roles": [],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0047",
+    "type": "person",
+    "name": "Pascal Radue",
+    "short_name": "Pascal Radue",
+    "description": "Responsable Nexans PWR-Transmission cité dans le communiqué sur le lancement de la campagne française.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "actor_0048",
+    "type": "person",
+    "name": "Eamon Ryan",
+    "short_name": "Eamon Ryan",
+    "description": "Ministre irlandais de l’Environnement et du Climat lors des signatures et du lancement du projet en 2022-2023.",
+    "roles": [],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-02"
   }
 ]

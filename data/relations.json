@@ -1008,16 +1008,17 @@
     "id": "relation_position_claim_0001",
     "source_id": "actor_0001",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Critique / inquiet sur le manque de clarté du calendrier et l’impact possible sur les objectifs offshore.",
+    "type": "position_on",
+    "summary": "Interroge le gouvernement sur le calendrier et critique le manque de transparence des retards ; aucune opposition au principe de Celtic n’est attestée. Position qualifiée comme critique de la conduite du projet, non opposant au câble.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0001"
+      "evidence_0001",
+      "evidence_0116"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "relation_position_claim_0002",
@@ -1443,16 +1444,18 @@
     "id": "relation_position_claim_0030",
     "source_id": "actor_0030",
     "target_id": "project_celtic",
-    "type": "position_on",
-    "summary": "Autorité de régulation veillant à l'impact des coûts sur les charges de réseau.",
+    "type": "supports",
+    "summary": "La CRU confirme conjointement avec la CRE la poursuite de l’investissement dans Celtic et la répartition des coûts en 2022. Soutien réglementaire au financement, sans position territoriale.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0030"
+      "evidence_0030",
+      "evidence_0144",
+      "evidence_0145"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "relation_position_claim_0031",
@@ -1473,61 +1476,65 @@
     "id": "relation_position_claim_0032",
     "source_id": "actor_0032",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Juge le retard extrêmement défavorable aux consommateurs, bien qu'il reconnaisse l'utilité du câble.",
+    "type": "supports",
+    "summary": "Déplore les retards et juge Celtic bénéfique à la sécurité d’approvisionnement et aux consommateurs irlandais ; appelle à une mise en service rapide.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0032"
+      "evidence_0032",
+      "evidence_0118"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "relation_position_claim_0033",
     "source_id": "actor_0033",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Expert énergie très contrarié par la dérive du calendrier.",
+    "type": "supports",
+    "summary": "Juge le retard frustrant et défend l’interconnexion comme protection contre les hausses de prix du gaz et les risques sur les gazoducs.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0033"
+      "evidence_0033",
+      "evidence_0119"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "relation_position_claim_0034",
     "source_id": "actor_0034",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Expert éolien, inquiet du risque de déséquilibre entre offre et demande électrique.",
+    "type": "position_on",
+    "summary": "Alerte sur les conséquences du retard pour la sécurité électrique irlandaise et la demande liée aux data centers, sans prise de position opposée au projet.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0034"
+      "evidence_0034",
+      "evidence_0120"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "relation_position_claim_0035",
     "source_id": "actor_0035",
     "target_id": "project_celtic",
-    "type": "supports",
-    "summary": "Soutien politique à la coopération entre l’Irlande, la Bretagne et les nations celtiques.",
+    "type": "position_on",
+    "summary": "Cite Celtic comme exemple de coopération Irlande–Bretagne ; le document ne contient pas d’aval explicite du tracé, du calendrier ou du financement.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0035"
+      "evidence_0035",
+      "evidence_0140"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-02"
   },
   {
     "id": "relation_position_claim_0036",
@@ -1543,5 +1550,249 @@
     "valid_from": null,
     "valid_to": null,
     "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0068",
+    "source_id": "actor_0037",
+    "target_id": "actor_0012",
+    "type": "represents",
+    "summary": "Anne-Laure Fontanaud intervient comme chargée de communication RTE sur les difficultés d’ensouillage.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0104",
+      "evidence_0105"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0069",
+    "source_id": "actor_0038",
+    "target_id": "project_celtic",
+    "type": "supports",
+    "summary": "La CRE confirme avec la CRU la poursuite du projet et ses règles de financement.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0144",
+      "evidence_0145"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0070",
+    "source_id": "actor_0038",
+    "target_id": "actor_0030",
+    "type": "institutional_link",
+    "summary": "CRE et CRU prennent conjointement en 2022 une décision de poursuite de l’investissement.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0144",
+      "evidence_0145"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0071",
+    "source_id": "actor_0039",
+    "target_id": "actor_0011",
+    "type": "represents",
+    "summary": "Mark Foley est directeur général d’EirGrid au moment de la coopération offshore avec RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0139"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0072",
+    "source_id": "actor_0040",
+    "target_id": "actor_0012",
+    "type": "represents",
+    "summary": "Xavier Piechaczyk préside le directoire de RTE au moment de la signature du protocole.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0139"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0073",
+    "source_id": "actor_0039",
+    "target_id": "actor_0040",
+    "type": "institutional_link",
+    "summary": "Signature d’un protocole de coopération offshore EirGrid–RTE distinct du contrat de construction Celtic.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0139"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0074",
+    "source_id": "actor_0041",
+    "target_id": "actor_0011",
+    "type": "represents",
+    "summary": "Michael Mahon est directeur des infrastructures d’EirGrid.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0125"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0075",
+    "source_id": "actor_0042",
+    "target_id": "actor_0011",
+    "type": "represents",
+    "summary": "Michael Behan est directeur financier d’EirGrid.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0121"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0076",
+    "source_id": "actor_0043",
+    "target_id": "project_celtic",
+    "type": "supports",
+    "summary": "Kadri Simson soutient publiquement Celtic et sa contribution à l’intégration des réseaux européens.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0143"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0077",
+    "source_id": "actor_0044",
+    "target_id": "actor_0015",
+    "type": "related_to",
+    "summary": "Sorensen Civil Engineering réalise la liaison terrestre en Irlande pour Nexans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0126"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0078",
+    "source_id": "actor_0044",
+    "target_id": "project_celtic",
+    "type": "related_to",
+    "summary": "Sorensen intervient sur le tronçon terrestre d’East Cork.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0126"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0079",
+    "source_id": "actor_0045",
+    "target_id": "actor_0015",
+    "type": "related_to",
+    "summary": "Green Rebel conduit des études géophysiques et UXO pour Nexans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0127"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0080",
+    "source_id": "actor_0045",
+    "target_id": "project_celtic",
+    "type": "related_to",
+    "summary": "Études du corridor sous-marin de Celtic en 2026.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0127"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0081",
+    "source_id": "actor_0046",
+    "target_id": "project_celtic",
+    "type": "institutional_link",
+    "summary": "Agnès Pannier-Runacher assiste aux jalons contractuels et politiques de Celtic en 2022-2023.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0141"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0082",
+    "source_id": "actor_0047",
+    "target_id": "actor_0015",
+    "type": "represents",
+    "summary": "Pascal Radue intervient pour Nexans lors du lancement des travaux maritimes français.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0111",
+      "evidence_0113"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
+  },
+  {
+    "id": "relation_0083",
+    "source_id": "actor_0048",
+    "target_id": "project_celtic",
+    "type": "institutional_link",
+    "summary": "Eamon Ryan assiste aux jalons contractuels et politiques du projet en 2022-2023.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0141"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-02"
   }
 ]
