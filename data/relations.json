@@ -218,7 +218,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0051"
+      "evidence_0159"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -233,7 +233,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0052"
+      "evidence_0160"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -563,7 +563,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0074"
+      "evidence_0163"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -593,7 +593,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0076"
+      "evidence_0176"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -608,7 +608,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0077"
+      "evidence_0172"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -623,7 +623,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0078"
+      "evidence_0176"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -638,7 +638,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0079"
+      "evidence_0172"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -653,7 +653,7 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_relation_0080"
+      "evidence_0176"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -666,13 +666,13 @@
     "type": "criticizes",
     "summary": "critique",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0081"
+      "evidence_0167"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0046",
@@ -681,13 +681,13 @@
     "type": "criticizes",
     "summary": "critique",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0082"
+      "evidence_0163"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0047",
@@ -696,13 +696,13 @@
     "type": "criticizes",
     "summary": "critique",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0083"
+      "evidence_0175"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0048",
@@ -711,13 +711,13 @@
     "type": "position_on",
     "summary": "position ambiguë",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0084"
+      "evidence_0172"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0049",
@@ -726,13 +726,13 @@
     "type": "position_on",
     "summary": "position ambiguë",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0085"
+      "evidence_0159"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0050",
@@ -741,13 +741,13 @@
     "type": "criticizes",
     "summary": "critique",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0086"
+      "evidence_0171"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0051",
@@ -756,13 +756,13 @@
     "type": "criticizes",
     "summary": "critique",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0087"
+      "evidence_0169"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0052",
@@ -771,13 +771,13 @@
     "type": "criticizes",
     "summary": "critique",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0088"
+      "evidence_0173"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0053",
@@ -801,13 +801,13 @@
     "type": "documented_by",
     "summary": "source documentaire",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0090"
+      "evidence_0175"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0055",
@@ -816,13 +816,13 @@
     "type": "documented_by",
     "summary": "source documentaire",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0091"
+      "evidence_0176"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0056",
@@ -831,13 +831,13 @@
     "type": "documented_by",
     "summary": "source documentaire",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0092"
+      "evidence_0177"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0057",
@@ -845,14 +845,14 @@
     "target_id": "project_celtic",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0093"
+      "evidence_0178"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0058",
@@ -860,14 +860,14 @@
     "target_id": "project_celtic",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0094"
+      "evidence_0179"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0059",
@@ -876,13 +876,13 @@
     "type": "documented_by",
     "summary": "source documentaire",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0095"
+      "evidence_0174"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0060",
@@ -890,14 +890,14 @@
     "target_id": "project_celtic",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0096"
+      "evidence_0180"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0061",
@@ -905,14 +905,14 @@
     "target_id": "project_celtic",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0097"
+      "evidence_0181"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0062",
@@ -921,13 +921,13 @@
     "type": "documented_by",
     "summary": "source documentaire",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0098"
+      "evidence_0182"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0063",
@@ -936,13 +936,13 @@
     "type": "documented_by",
     "summary": "source documentaire",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0099"
+      "evidence_0173"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0064",
@@ -950,14 +950,14 @@
     "target_id": "project_celtic",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0100"
+      "evidence_0183"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0065",
@@ -965,14 +965,14 @@
     "target_id": "project_celtic",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0101"
+      "evidence_0184"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0066",
@@ -980,14 +980,14 @@
     "target_id": "actor_0026",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0102"
+      "evidence_0185"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0067",
@@ -995,14 +995,14 @@
     "target_id": "actor_0010",
     "type": "documented_by",
     "summary": "source documentaire",
-    "certainty": "high",
-    "status": "reported",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_relation_0103"
+      "evidence_0186"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0001",
@@ -1013,7 +1013,6 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0001",
       "evidence_0116"
     ],
     "valid_from": null,
@@ -1024,16 +1023,17 @@
     "id": "relation_position_claim_0002",
     "source_id": "actor_0002",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Inquiète / interrogative sur le retard et ses conséquences.",
+    "type": "supports",
+    "summary": "Déclare l'interconnexion France–Irlande nécessaire aux importations comme aux exportations d'électricité ; dénonce son retard, sans s'opposer au projet.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0002"
+      "evidence_0153",
+      "evidence_0154"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0003",
@@ -1054,16 +1054,17 @@
     "id": "relation_position_claim_0004",
     "source_id": "actor_0004",
     "target_id": "project_celtic",
-    "type": "position_on",
-    "summary": "Prudent / informé de difficultés techniques impactant le projet.",
+    "type": "supports",
+    "summary": "A salué et accompagné la signature des accords du Celtic Interconnector ; demande en 2026 des éclaircissements sur les difficultés techniques et les retards.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0004"
+      "evidence_0156",
+      "evidence_0157"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0005",
@@ -1114,46 +1115,48 @@
     "id": "relation_position_claim_0008",
     "source_id": "actor_0008",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Critique de la consommation électrique des multinationales du numérique ; demande de moratoire sur les data centers.",
+    "type": "position_on",
+    "summary": "Campagne opposée à l'expansion des data centers irlandais ; aucune position de rejet du Celtic Interconnector n'est établie. Son enjeu est contextuel.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0008"
+      "evidence_0160"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0009",
     "source_id": "actor_0009",
     "target_id": "project_celtic",
-    "type": "supports",
-    "summary": "Gestion et accompagnement du Celtic Interconnector Community Benefit Fund.",
+    "type": "position_on",
+    "summary": "SECAD assure la gestion et l'accompagnement des candidatures au fonds communautaire de Celtic ; cette fonction ne vaut pas approbation déclarée du projet.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0009"
+      "evidence_0123",
+      "evidence_0124"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0010",
     "source_id": "actor_0010",
     "target_id": "project_celtic",
-    "type": "supports",
-    "summary": "Bénéficiaires du Community Benefit Fund.",
+    "type": "position_on",
+    "summary": "Groupes locaux bénéficiaires du Community Benefit Fund à East Cork ; la réception d'une subvention n'établit pas une position collective favorable à l'interconnexion.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0010"
+      "evidence_0123",
+      "evidence_0124"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0011",
@@ -1449,7 +1452,6 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0030",
       "evidence_0144",
       "evidence_0145"
     ],
@@ -1461,16 +1463,16 @@
     "id": "relation_position_claim_0031",
     "source_id": "actor_0031",
     "target_id": "project_celtic",
-    "type": "opposes",
-    "summary": "Analyste financier très critique sur l'explosion prévisible du budget.",
+    "type": "position_on",
+    "summary": "Conteste les estimations budgétaires et la conduite du projet ; projette un coût final de 2,1 à 2,8 Md€, sans appeler à abandonner le principe de l'interconnexion.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0031"
+      "evidence_0163"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_position_claim_0032",
@@ -1481,7 +1483,6 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0032",
       "evidence_0118"
     ],
     "valid_from": null,
@@ -1497,7 +1498,6 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0033",
       "evidence_0119"
     ],
     "valid_from": null,
@@ -1513,7 +1513,6 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0034",
       "evidence_0120"
     ],
     "valid_from": null,
@@ -1529,7 +1528,6 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0035",
       "evidence_0140"
     ],
     "valid_from": null,
@@ -1540,16 +1538,16 @@
     "id": "relation_position_claim_0036",
     "source_id": "actor_0036",
     "target_id": "project_celtic",
-    "type": "supports",
-    "summary": "Enceinte de coopération économique et institutionnelle dans laquelle le Celtic Interconnector est valorisé.",
+    "type": "position_on",
+    "summary": "Forum de coopération économique où le Celtic Interconnector est cité comme exemple ; aucune position institutionnelle autonome de soutien au tracé n'est démontrée.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0036"
+      "evidence_0140"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0068",
@@ -1561,7 +1559,8 @@
     "status": "reported",
     "evidence_ids": [
       "evidence_0104",
-      "evidence_0105"
+      "evidence_0105",
+      "evidence_0188"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -1698,7 +1697,8 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0126"
+      "evidence_0126",
+      "evidence_0189"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -1728,7 +1728,8 @@
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0127"
+      "evidence_0127",
+      "evidence_0190"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -1753,16 +1754,17 @@
     "id": "relation_0081",
     "source_id": "actor_0046",
     "target_id": "project_celtic",
-    "type": "institutional_link",
-    "summary": "Agnès Pannier-Runacher assiste aux jalons contractuels et politiques de Celtic en 2022-2023.",
+    "type": "supports",
+    "summary": "Soutient les accords franco-irlandais de réalisation de Celtic Interconnector et l'objectif de sécurité énergétique et de transition écologique.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0141"
+      "evidence_0141",
+      "evidence_0191"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "relation_0082",
@@ -1784,15 +1786,16 @@
     "id": "relation_0083",
     "source_id": "actor_0048",
     "target_id": "project_celtic",
-    "type": "institutional_link",
-    "summary": "Eamon Ryan assiste aux jalons contractuels et politiques du projet en 2022-2023.",
+    "type": "supports",
+    "summary": "Participe aux accords de mise en œuvre du Celtic Interconnector et en défend les bénéfices pour l'approvisionnement irlandais et les échanges renouvelables.",
     "certainty": "high",
     "status": "reported",
     "evidence_ids": [
-      "evidence_0141"
+      "evidence_0141",
+      "evidence_0192"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   }
 ]

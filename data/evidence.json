@@ -1,35 +1,8 @@
 [
   {
-    "id": "evidence_0001",
-    "type": "quote",
-    "text": "Il se dit « stunned » de ne pas obtenir de date d’achèvement et estime que le gouvernement doit être « realistic ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0002",
-    "type": "quote",
-    "text": "Elle rappelle que l’interconnexion est nécessaire pour « export electricity, but also in the event that we need to import it ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
     "id": "evidence_0003",
     "type": "summary",
     "text": "Il reçoit une mise à jour du ministre Darragh O’Brien sur le projet.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0004",
-    "type": "quote",
-    "text": "Il indique avoir été informé par EirGrid et l’ambassade de France de « technical issues » susceptibles de retarder le projet.",
     "source_id": null,
     "source_status": "to_qualify",
     "published_at": null,
@@ -57,33 +30,6 @@
     "id": "evidence_0007",
     "type": "summary",
     "text": "Le document précise qu’Uplift critique les impacts des data centers sur le système électrique mais pas directement le câble.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0008",
-    "type": "summary",
-    "text": "La campagne vise un moratoire sur l’ouverture de sites et critique la pression sur le système électrique.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0009",
-    "type": "summary",
-    "text": "Contact d’aide pour les candidatures au fonds communautaire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0010",
-    "type": "summary",
-    "text": "29 groupes et organisations reçoivent 838 987 € dans le cadre du fonds associé au projet.",
     "source_id": null,
     "source_status": "to_qualify",
     "published_at": null,
@@ -261,69 +207,6 @@
     "accessed_at": null
   },
   {
-    "id": "evidence_0030",
-    "type": "summary",
-    "text": "EirGrid devra obtenir son autorisation pour intégrer de nouvelles charges financières.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0031",
-    "type": "summary",
-    "text": "Estime que le coût final pourrait atteindre 2,1 à 2,8 Md€.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0032",
-    "type": "quote",
-    "text": "Déclare : « This is bad news for electricity consumers ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0033",
-    "type": "quote",
-    "text": "Qualifie le retard de « frustrating ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0034",
-    "type": "summary",
-    "text": "Alerte sur le resserrement du réseau notamment à cause de la croissance des data centers.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0035",
-    "type": "summary",
-    "text": "Le Celtic Interconnector renforce la sécurité énergétique et la connectivité entre l’Irlande et la France.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0036",
-    "type": "summary",
-    "text": "Le forum crée des liens destinés à devenir les investissements, les coopérations de recherche et les partenariats commerciaux de demain.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
     "id": "evidence_relation_0037",
     "type": "summary",
     "text": "EirGrid est co-porteur du projet, responsable côté irlandais.",
@@ -444,24 +327,6 @@
     "id": "evidence_relation_0050",
     "type": "summary",
     "text": "Campagne liée à Uplift.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0051",
-    "type": "summary",
-    "text": "Uplift critique la pression des data centers sur le système électrique.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0052",
-    "type": "summary",
-    "text": "La campagne critique la consommation électrique des multinationales du numérique.",
     "source_id": null,
     "source_status": "to_qualify",
     "published_at": null,
@@ -657,15 +522,6 @@
     "accessed_at": null
   },
   {
-    "id": "evidence_relation_0074",
-    "type": "summary",
-    "text": "Estime que le coût final pourrait atteindre 2,1 à 2,8 Md€.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
     "id": "evidence_relation_0075",
     "type": "summary",
     "text": "Son estimation est fondée sur des documents publics EirGrid et CRU.",
@@ -675,252 +531,9 @@
     "accessed_at": null
   },
   {
-    "id": "evidence_relation_0076",
-    "type": "summary",
-    "text": "Juge le retard défavorable aux consommateurs.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0077",
-    "type": "summary",
-    "text": "Estime que Celtic améliorerait la sécurité d’approvisionnement.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0078",
-    "type": "summary",
-    "text": "Qualifie le retard de « frustrating ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0079",
-    "type": "summary",
-    "text": "Souligne l’intérêt d’une alternative en cas de hausse des prix du gaz.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0080",
-    "type": "summary",
-    "text": "Alerte sur le resserrement entre capacité d’approvisionnement et demande avec la croissance des data centers.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0081",
-    "type": "summary",
-    "text": "Grief structurant du corpus.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0082",
-    "type": "summary",
-    "text": "Grief structurant du corpus.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0083",
-    "type": "summary",
-    "text": "Grief structurant du corpus.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0084",
-    "type": "summary",
-    "text": "Enjeu présenté à la fois comme vulnérabilité actuelle et bénéfice attendu de l’interconnexion.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0085",
-    "type": "summary",
-    "text": "Enjeu de demande électrique dans le contexte irlandais.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0086",
-    "type": "summary",
-    "text": "Certains passages estiment que la Bretagne accueille et finance une infrastructure sans contrôle local réel.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0087",
-    "type": "summary",
-    "text": "Les flux peuvent suivre les zones les plus rentables plutôt qu’un bénéfice local.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0088",
-    "type": "summary",
-    "text": "Conditions marines, terrain sous-marin difficile, ensouillage et protection des câbles.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
     "id": "evidence_relation_0089",
     "type": "summary",
     "text": "Agrégateur / reprise de presse du corpus.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0090",
-    "type": "summary",
-    "text": "Article sur les coûts possibles liés aux retards.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0091",
-    "type": "summary",
-    "text": "Articles sur les retards et les impacts prix et sécurité énergétique.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0092",
-    "type": "summary",
-    "text": "Articles sur les étapes techniques.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0093",
-    "type": "summary",
-    "text": "Article sur l’ensouillage côté français et l’avancement du chantier.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0094",
-    "type": "summary",
-    "text": "Reportage sur le chantier de pose en mer et l’intérêt énergétique pour la Bretagne.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0095",
-    "type": "summary",
-    "text": "Article sur la station de conversion et la souveraineté énergétique européenne.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0096",
-    "type": "summary",
-    "text": "Article sur la station de conversion et le rôle de NGE.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0097",
-    "type": "summary",
-    "text": "Article sur l’étape franchie dans le projet et la station Ar Merzher.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0098",
-    "type": "summary",
-    "text": "Notices maritimes sur les opérations de câbles, réparations et sécurité maritime.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0099",
-    "type": "summary",
-    "text": "Articles sur les navires câbliers et campagnes d’études en mer.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0100",
-    "type": "summary",
-    "text": "Article sur le début de pose côté français et le coût du projet.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0101",
-    "type": "summary",
-    "text": "Article de 2019 sur la concertation et commentaires de lecteurs.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0102",
-    "type": "summary",
-    "text": "Mention du contrat Assystem / CIDAC.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_relation_0103",
-    "type": "summary",
-    "text": "Relais des financements communautaires accordés en East Cork.",
     "source_id": null,
     "source_status": "to_qualify",
     "published_at": null,
@@ -1562,5 +1175,605 @@
     "excel_row": 66,
     "source_access": "article reproduit dans l’Excel ; URL fournie non ouverte",
     "topic": "historical"
+  },
+  {
+    "id": "evidence_0153",
+    "type": "documented_summary",
+    "text": "Jennifer Whitmore qualifie l'interconnexion avec la France de nécessaire pour exporter et importer de l'électricité, et interpelle le gouvernement sur son retard ; elle ne s'oppose pas au câble.",
+    "source_id": "source_0052",
+    "source_ids": [
+      "source_0052"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-04-28",
+    "accessed_at": "2026-11-03",
+    "location": "Débat parlementaire du 28 avril 2026, intervention de la députée Jennifer Whitmore",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0154",
+    "type": "documented_summary",
+    "text": "Jennifer Whitmore se déclare préoccupée par deux années de retard, alors qu'elle estime le câble nécessaire à l'approvisionnement et aux exportations.",
+    "source_id": "source_0053",
+    "source_ids": [
+      "source_0053"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-04-28",
+    "accessed_at": "2026-11-03",
+    "location": "Article du 28 avril 2026, passage « Jennifer Whitmore »",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0155",
+    "type": "documented_summary",
+    "text": "Roderic O’Gorman sollicite du ministre Darragh O’Brien une mise à jour de l'avancement de Celtic ; le fait de poser cette question ne constitue ni un soutien ni une opposition au projet.",
+    "source_id": "source_0054",
+    "source_ids": [
+      "source_0054"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-05-10",
+    "accessed_at": "2026-11-03",
+    "location": "Article sur l'actualisation ministérielle du calendrier, mai 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0156",
+    "type": "documented_summary",
+    "text": "Micheál Martin, alors Taoiseach, salue avec ses homologues français et irlandais les accords techniques et financiers signés pour la construction de Celtic le 25 novembre 2022.",
+    "source_id": "source_0069",
+    "source_ids": [
+      "source_0069"
+    ],
+    "source_status": "qualified",
+    "published_at": "2022-11-25",
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué gouvernemental du 25 novembre 2022",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0157",
+    "type": "documented_summary",
+    "text": "Micheál Martin explique au Parlement avoir été informé par EirGrid de difficultés techniques, et demande un point d'information aux députés, sans renier la nécessité du projet.",
+    "source_id": "source_0052",
+    "source_ids": [
+      "source_0052"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-04-28",
+    "accessed_at": "2026-11-03",
+    "location": "Dáil du 28 avril 2026, réponse du Taoiseach",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0158",
+    "type": "documented_summary",
+    "text": "Darragh O’Brien indique que les difficultés des fonds marins et de la protection du câble ont ralenti les travaux et que la mise en service est désormais envisagée au dernier trimestre 2028.",
+    "source_id": "source_0054",
+    "source_ids": [
+      "source_0054"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-05-10",
+    "accessed_at": "2026-11-03",
+    "location": "Déclarations ministérielles rapportées, article de mai 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0159",
+    "type": "documented_summary",
+    "text": "Uplift demande un moratoire sur de nouveaux data centers en Irlande en raison de leur pression sur l'électricité et l'eau ; cette campagne ne vise pas explicitement à empêcher Celtic Interconnector.",
+    "source_id": "source_0055",
+    "source_ids": [
+      "source_0055"
+    ],
+    "source_status": "qualified",
+    "published_at": "2021-09-28",
+    "accessed_at": "2026-11-03",
+    "location": "Campagne Uplift « Don't let Big Tech steal our light », section « What we want »",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0160",
+    "type": "documented_summary",
+    "text": "La campagne « Don't let Big Tech steal our light » demande de suspendre de nouveaux data centers jusqu'à une consultation nationale ; aucune opposition au câble Celtic n'y est formulée.",
+    "source_id": "source_0055",
+    "source_ids": [
+      "source_0055"
+    ],
+    "source_status": "qualified",
+    "published_at": "2021-09-28",
+    "accessed_at": "2026-11-03",
+    "location": "Page Uplift, revendications de la campagne",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0161",
+    "type": "documented_summary",
+    "text": "Alexandre Pinson, directeur de projet chez Siemens Energy, décrit la station de conversion et la coopération avec Arcadis ; il présente l'interconnexion comme un levier de transition énergétique.",
+    "source_id": "source_0056",
+    "source_ids": [
+      "source_0056"
+    ],
+    "source_status": "qualified",
+    "published_at": "2025-03-01",
+    "accessed_at": "2026-11-03",
+    "location": "Article Arcadis, citation d'Alexandre Pinson",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0162",
+    "type": "documented_summary",
+    "text": "Alexandre Pinson, chef de projet Siemens Energy, confirme la réalisation des infrastructures de la station Ar Merzher avec des partenaires locaux et l'entrée en phase d'essais des équipements.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Offshore Energy, déclaration d'Alexandre Pinson le 30 avril 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0163",
+    "type": "documented_summary",
+    "text": "Alan McSweeney estime dans une analyse personnelle que le coût final pourrait se situer entre 2,1 et 2,8 Md€ ; c'est une projection critique de la gestion et des surcoûts, non un budget approuvé ni une opposition au principe de l'interconnexion.",
+    "source_id": "source_0057",
+    "source_ids": [
+      "source_0057"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-06-08",
+    "accessed_at": "2026-11-03",
+    "location": "Irish Times, 8 juin 2026, analyse d'Alan McSweeney",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0164",
+    "type": "documented_summary",
+    "text": "La BEI distingue une subvention CEF de 530,7 M€, un financement bancaire de 800 M€ (BEI, Danske Bank, BNP, Barclays) et 404 M€ apportés par RTE. Les montants de 530,7 et 800 M€ ne décrivent pas la même nature de financement.",
+    "source_id": "source_0060",
+    "source_ids": [
+      "source_0060"
+    ],
+    "source_status": "qualified",
+    "published_at": "2022-11-25",
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué BEI du 25 novembre 2022, ventilation des financements",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0165",
+    "type": "documented_summary",
+    "text": "La CRE et son homologue CRU ont confirmé le 3 novembre 2022 la poursuite du Celtic Interconnector malgré la hausse de son coût de référence à 1 482 M€ ; il s'agit d'une décision régulatoire et non d'un coût final.",
+    "source_id": "source_0063",
+    "source_ids": [
+      "source_0063"
+    ],
+    "source_status": "qualified",
+    "published_at": "2022-11-10",
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué CRE du 10 novembre 2022",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0166",
+    "type": "documented_summary",
+    "text": "RTE et EirGrid développent une interconnexion HVDC bidirectionnelle de 700 MW sur environ 575 km, dont 500 km sous la mer, de Bretagne vers l'Est de Cork.",
+    "source_id": "source_0061",
+    "source_ids": [
+      "source_0061"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-11-03",
+    "accessed_at": "2026-11-03",
+    "location": "Présentation officielle RTE, caractéristiques et porteurs",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0167",
+    "type": "documented_summary",
+    "text": "EirGrid annonce comme échéance de mise en service prévisionnelle le quatrième trimestre 2028, sous réserve des aléas des travaux ; l'échéance ancienne de printemps 2028 sur des pages françaises n'est pas l'annonce la plus récente.",
+    "source_id": "source_0062",
+    "source_ids": [
+      "source_0062"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-11-03",
+    "accessed_at": "2026-11-03",
+    "location": "EirGrid, fiche Celtic Interconnector, Project Overview",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0168",
+    "type": "documented_summary",
+    "text": "EirGrid confirme avoir achevé et testé la pose des câbles terrestres irlandais au 28 mai 2026 (44 km de câbles HVAC et HVDC) ; l'achèvement terrestre ne vaut pas mise en service de l'ensemble.",
+    "source_id": "source_0067",
+    "source_ids": [
+      "source_0067"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-05-28",
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué EirGrid, 28 mai 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0169",
+    "type": "documented_summary",
+    "text": "La Commission européenne décrit le couplage des marchés électriques comme un dispositif d'optimisation des échanges transfrontaliers selon l'offre, la demande et les prix ; ceci n'établit aucune priorité de fourniture locale à la Bretagne.",
+    "source_id": "source_0066",
+    "source_ids": [
+      "source_0066"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-11-03",
+    "accessed_at": "2026-11-03",
+    "location": "Commission européenne, « Market coupling »",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0170",
+    "type": "documented_summary",
+    "text": "RTE explique que les capacités commerciales transfrontalières sont allouées aux acteurs de marché ; les programmes d'échanges commerciaux sont à distinguer des flux électriques physiques.",
+    "source_id": "source_0070",
+    "source_ids": [
+      "source_0070"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-11-03",
+    "accessed_at": "2026-11-03",
+    "location": "RTE Services, section « Import-export rules »",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0171",
+    "type": "documented_summary",
+    "text": "Le projet est porté conjointement par les gestionnaires de réseau RTE et EirGrid et s'inscrit dans le marché électrique européen. Les critiques d'un « manque de contrôle breton » sont une interprétation éditoriale non démontrée par ce seul constat.",
+    "source_id": "source_0061",
+    "source_ids": [
+      "source_0061"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-11-03",
+    "accessed_at": "2026-11-03",
+    "location": "Page officielle RTE, portage du projet et marché européen",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0172",
+    "type": "documented_summary",
+    "text": "Les gestionnaires de réseau présentent Celtic comme un moyen de renforcer la sécurité d'approvisionnement irlandaise et française et de diversifier les échanges électriques.",
+    "source_id": "source_0062",
+    "source_ids": [
+      "source_0062"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-11-03",
+    "accessed_at": "2026-11-03",
+    "location": "EirGrid, Project Overview",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0173",
+    "type": "documented_summary",
+    "text": "Mer et Marine décrit les opérations de pose et protection du câble sous-marin, les moyens mécaniques d'ensouillage et le recours à plusieurs navires selon les zones des fonds marins.",
+    "source_id": "source_0064",
+    "source_ids": [
+      "source_0064"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-03-26",
+    "accessed_at": "2026-11-03",
+    "location": "Enquête maritime du 26 mars 2026, sections « La protection » et « La pose »",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0174",
+    "type": "documented_summary",
+    "text": "Breizh-info publie un article du 28 avril 2026 détaillant le chantier d'Ar Merzher, les travaux de NGE et la participation de Siemens Energy ; ce média ne porte pas de position globale structurée dans la cartographie.",
+    "source_id": "source_0065",
+    "source_ids": [
+      "source_0065"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-04-28",
+    "accessed_at": "2026-11-03",
+    "location": "Article sur la station de La Martyre",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0175",
+    "type": "documented_summary",
+    "text": "The Irish Times publie le 8 juin 2026 une analyse des surcoûts possibles de Celtic et cite l'estimation non contractuelle d'Alan McSweeney.",
+    "source_id": "source_0057",
+    "source_ids": [
+      "source_0057"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-06-08",
+    "accessed_at": "2026-11-03",
+    "location": "Article du 8 juin 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0176",
+    "type": "documented_summary",
+    "text": "Irish Examiner publie un article fin avril 2026 détaillant les retards de la liaison et les réactions de Barry Hayes, Paul Cuffe, Paul Leahy et Malcolm Byrne.",
+    "source_id": "source_0031",
+    "source_ids": [
+      "source_0031"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Irish Examiner, article du 28 avril 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0177",
+    "type": "documented_summary",
+    "text": "Offshore Energy décrit le 30 avril 2026 l'avancement du câble et la station de conversion Ar Merzher, ainsi que les travaux de Nexans et Siemens Energy.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Offshore Energy, 30 avril 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0178",
+    "type": "documented_summary",
+    "text": "La Tribune publie une analyse du chantier terrestre, des câbles et de la préparation des campagnes sous-marines de l'interconnexion France–Irlande.",
+    "source_id": "source_0023",
+    "source_ids": [
+      "source_0023"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "La Tribune, article présent dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0179",
+    "type": "documented_summary",
+    "text": "TF1 Info couvre les opérations de pose du câble au large du Finistère et explique l'objectif de l'interconnexion entre la France et l'Irlande.",
+    "source_id": "source_0026",
+    "source_ids": [
+      "source_0026"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Reportage du chantier, texte reproduit dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0180",
+    "type": "documented_summary",
+    "text": "Voiries et Réseaux couvre la construction de la station de conversion Ar Merzher à La Martyre par NGE et Siemens Energy.",
+    "source_id": "source_0028",
+    "source_ids": [
+      "source_0028"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Article métier reproduit dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0181",
+    "type": "documented_summary",
+    "text": "Silicon Republic présente l'achèvement du gros œuvre de la station Ar Merzher et la participation de Siemens Energy et NGE.",
+    "source_id": "source_0029",
+    "source_ids": [
+      "source_0029"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Article métier reproduit dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0182",
+    "type": "documented_summary",
+    "text": "Afloat.ie publie des avis maritimes sur les travaux de câble en mer Celtique, notamment les campagnes géophysiques et UXO de Green Rebel.",
+    "source_id": "source_0035",
+    "source_ids": [
+      "source_0035"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Notice Afloat.ie du 22 février 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0183",
+    "type": "documented_summary",
+    "text": "Révolution Énergétique décrit le lancement de la pose maritime française et rappelle les paramètres techniques de l'interconnexion.",
+    "source_id": "source_0025",
+    "source_ids": [
+      "source_0025"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Article reproduit dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0184",
+    "type": "documented_summary",
+    "text": "L'Agence Bretagne Presse publie en août 2026 un compte rendu du forum interceltique où Frank Feighan cite le Celtic Interconnector comme projet de coopération.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Article ABP, texte reproduit dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0185",
+    "type": "documented_summary",
+    "text": "Capital.fr rapporte en avril 2023 un contrat d'Assystem avec CIDAC dans le cadre de l'assistance à la réalisation de Celtic.",
+    "source_id": "source_0046",
+    "source_ids": [
+      "source_0046"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Article Capital.fr repris dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0186",
+    "type": "documented_summary",
+    "text": "Cork Chamber publie un communiqué d'EirGrid confirmant 838 987 € attribués à 29 organisations locales dans la première phase du fonds communautaire.",
+    "source_id": "source_0041",
+    "source_ids": [
+      "source_0041"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Communiqué publié sur Cork Chamber, décembre 2023",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0187",
+    "type": "documented_summary",
+    "text": "La campagne de câblage entre la France et l'Irlande mobilise Nexans, Van Oord et les navires décrits par Mer et Marine ; les campagnes de pose et d'ensouillage doivent être distinguées.",
+    "source_id": "source_0064",
+    "source_ids": [
+      "source_0064"
+    ],
+    "source_status": "qualified",
+    "published_at": "2026-03-26",
+    "accessed_at": "2026-11-03",
+    "location": "Mer et Marine, 26 mars 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0188",
+    "type": "documented_summary",
+    "text": "Anne-Laure Fontanaud intervient au nom de RTE sur les contraintes du chantier marin, les reconnaissances et l'ensouillage au large des côtes françaises.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Ouest-France, article reproduit dans l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0189",
+    "type": "documented_summary",
+    "text": "Sorensen Civil Engineering est cité parmi les intervenants des travaux terrestres en Irlande, auprès d'EirGrid et de Nexans, sur le secteur East Cork.",
+    "source_id": "source_0044",
+    "source_ids": [
+      "source_0044"
+    ],
+    "source_status": "url_in_excel_to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Communiqué EirGrid construction, texte de l'Excel",
+    "verification": "excel_integral_url_not_directly_checked",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0190",
+    "type": "documented_summary",
+    "text": "Green Rebel effectue des campagnes géophysiques et de détection d'engins explosifs non explosés (UXO) pour Nexans dans le corridor maritime du Celtic Interconnector.",
+    "source_id": "source_0035",
+    "source_ids": [
+      "source_0035"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Afloat.ie, avis du 22 février 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0191",
+    "type": "documented_summary",
+    "text": "Agnès Pannier-Runacher soutient publiquement l'accord financier et industriel franco-irlandais sur Celtic, qu'elle présente comme contribuant à la sécurité d'approvisionnement et à la transition énergétique.",
+    "source_id": "source_0058",
+    "source_ids": [
+      "source_0058"
+    ],
+    "source_status": "qualified",
+    "published_at": "2022-11-25",
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué du gouvernement français du 25 novembre 2022",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
+  },
+  {
+    "id": "evidence_0192",
+    "type": "documented_summary",
+    "text": "Eamon Ryan, ministre irlandais, salue les accords de réalisation de l'interconnexion et son intérêt pour les importations et exportations d'énergie renouvelable.",
+    "source_id": "source_0069",
+    "source_ids": [
+      "source_0069"
+    ],
+    "source_status": "qualified",
+    "published_at": "2022-11-25",
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué du gouvernement irlandais du 25 novembre 2022",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_or_equivalent_rétrospective"
   }
 ]

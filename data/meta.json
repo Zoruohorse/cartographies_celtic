@@ -2,12 +2,12 @@
   "id": "project_celtic",
   "title": "Cartographie interactive — Celtic Interconnector",
   "subtitle": "Interconnexion France–Irlande de 700 MW ; mise en service annoncée fin 2028 (sous réserve), pause des opérations maritimes françaises jusqu’au printemps 2027.",
-  "last_updated": "2026-11-02",
-  "data_notice": "Évolutions sourcées exclusivement dans MAJ Celtic Interconnector.xlsx (93 ressources examinées) ; les articles n’ont pas été consultés directement sur leurs sites. Les liens correspondent aux URL transmises. Les coûts prévisionnels et estimations indépendantes ne sont pas confondus.",
+  "last_updated": "2026-11-03",
+  "data_notice": "Audit documentaire rétrospectif du 3 novembre 2026 : distinction des URL consultées directement, des contenus reproduits dans l’Excel et des références historiques sans source. Les positions sont documentées par des déclarations et non déduites de la seule qualité de prestataire ou de bénéficiaire. Les agrégateurs et affirmations non vérifiables ne sont pas des preuves autonomes.",
   "griefs": [
     {
       "title": "⏱️ Décalage de la mise en service",
-      "text": "Fin 2028 / T4 2028 annoncé en avril 2026. Les contraintes industrielles et les opérations maritimes demeurent sensibles aux conditions météorologiques.",
+      "text": "EirGrid annonce une mise en service prévisionnelle au quatrième trimestre 2028. Des conditions maritimes et de protection du câble rendent l'échéance conditionnelle.",
       "evidence_ids": [
         "evidence_0115",
         "evidence_0116",
@@ -15,40 +15,54 @@
         "evidence_0118",
         "evidence_0119",
         "evidence_0120",
-        "evidence_0114"
+        "evidence_0114",
+        "evidence_0167",
+        "evidence_0158"
       ],
       "source_ids": [
         "source_0031",
-        "source_0038"
+        "source_0038",
+        "source_0062",
+        "source_0054"
       ]
     },
     {
       "title": "⚓ Pause des opérations en mer côté français",
-      "text": "Après 98 km posés au printemps 2026, les opérations d’ensouillage sont interrompues jusqu’au printemps 2027 : météo, fonds marins plus complexes, recours éventuel à l’enrochement.",
+      "text": "La pose et la protection ne se confondent pas : après 98 km posés côté français, les opérations d'ensouillage sont suspendues jusqu'au printemps 2027 selon le reportage transmis.",
       "evidence_ids": [
         "evidence_0104",
         "evidence_0105",
-        "evidence_0106"
+        "evidence_0106",
+        "evidence_0173",
+        "evidence_0167"
       ],
       "source_ids": [
         "source_0018",
-        "source_0021"
+        "source_0021",
+        "source_0064",
+        "source_0062"
       ]
     },
     {
       "title": "💶 Coût de référence et dépassements potentiels",
-      "text": "Référence régulatoire 2022 : 1,48 Md€ + 141 M€ de provisions. Les estimations médiatiques pouvant dépasser 2 Md€ restent des scénarios, non un budget final approuvé.",
+      "text": "Les référentiels régulatoires et financiers de 2022 sont distincts des scénarios d'Alan McSweeney (2,1–2,8 Md€), qui ne constituent pas un coût final contractualisé.",
       "evidence_ids": [
         "evidence_0144",
-        "evidence_0145"
+        "evidence_0145",
+        "evidence_0165",
+        "evidence_0164",
+        "evidence_0163"
       ],
       "source_ids": [
-        "source_0049"
+        "source_0049",
+        "source_0063",
+        "source_0060",
+        "source_0057"
       ]
     },
     {
       "title": "💳 Consommateurs irlandais",
-      "text": "Les retards privent les consommateurs des gains potentiels de diversification et de sécurité. La répercussion de surcoûts sur les tarifs dépend de décisions réglementaires et n’est pas établie comme certaine.",
+      "text": "Les retards risquent de différer les bénéfices d'échanges pour les consommateurs ; le montant de surcoûts tarifaires éventuels relève des décisions de régulation, et n'est pas acquis.",
       "evidence_ids": [
         "evidence_0115",
         "evidence_0116",
@@ -57,11 +71,15 @@
         "evidence_0119",
         "evidence_0120",
         "evidence_0144",
-        "evidence_0145"
+        "evidence_0145",
+        "evidence_0175",
+        "evidence_0172"
       ],
       "source_ids": [
         "source_0031",
-        "source_0049"
+        "source_0049",
+        "source_0057",
+        "source_0062"
       ]
     },
     {
@@ -74,26 +92,31 @@
         "evidence_0118",
         "evidence_0119",
         "evidence_0120",
-        "evidence_0110"
+        "evidence_0110",
+        "evidence_0172"
       ],
       "source_ids": [
         "source_0031",
-        "source_0032"
+        "source_0032",
+        "source_0062"
       ]
     },
     {
       "title": "📈 Demande électrique et data centers",
-      "text": "Paul Leahy estime que la croissance de la demande des data centers rend plus critique le retard d’interconnexion. Il ne s’agit pas d’un motif d’opposition à Celtic.",
+      "text": "La demande croissante de data centers crée un contexte de pression sur le réseau irlandais ; les critiques d'Uplift portent sur ces infrastructures, pas sur un rejet établi du Celtic.",
       "evidence_ids": [
         "evidence_0115",
         "evidence_0116",
         "evidence_0117",
         "evidence_0118",
         "evidence_0119",
-        "evidence_0120"
+        "evidence_0120",
+        "evidence_0159",
+        "evidence_0176"
       ],
       "source_ids": [
-        "source_0031"
+        "source_0031",
+        "source_0055"
       ]
     },
     {
@@ -105,12 +128,17 @@
         "evidence_0134",
         "evidence_0135",
         "evidence_0125",
-        "evidence_0126"
+        "evidence_0126",
+        "evidence_0161",
+        "evidence_0187",
+        "evidence_0189"
       ],
       "source_ids": [
         "source_0028",
         "source_0030",
-        "source_0044"
+        "source_0044",
+        "source_0056",
+        "source_0064"
       ]
     },
     {
@@ -118,21 +146,24 @@
       "text": "EirGrid mobilise un fonds communautaire annoncé à 2,4 M€ ; l’organisation de contributions est distinguée d’une approbation du projet par chaque bénéficiaire.",
       "evidence_ids": [
         "evidence_0123",
-        "evidence_0124"
+        "evidence_0124",
+        "evidence_0186",
+        "evidence_0168"
       ],
       "source_ids": [
         "source_0041",
-        "source_0045"
+        "source_0045",
+        "source_0067"
       ]
     }
   ],
   "vigilance": [
-    "Calendrier : le printemps 2028 mentionné dans un bulletin antérieur et le T4 2028 annoncé en avril 2026 correspondent à des révisions successives ; aucune date ferme de mise en service postérieure à la pause d’automne 2026 n’est prouvée par le lot.",
-    "Coûts : 1,48 Md€ plus 141 M€ de provisions constituent le budget de référence 2022, non une estimation définitive 2026. Le seuil de 2–2,8 Md€ n’est pas un coût contractualisé et ne doit pas être présenté comme tel.",
-    "Financement : 530 M€ de subvention européenne sont explicitement documentés dans le communiqué de la Commission européenne de 2022. Les mentions concurrentes de 800 M€ dans les synthèses historiques ne sont pas étayées par une pièce équivalente.",
-    "Positionnement : Malcolm Byrne, Barry Hayes, Paul Cuffe et Paul Leahy critiquent les retards ou coûts, mais cela ne démontre aucune opposition à la liaison ; la position globale doit être qualifiée sans amalgame.",
-    "Maritime : les campagnes de pose, d’ensouillage et les opérations ponctuelles de réparation sont distinctes. Une réparation signalée en mars 2026 ne prouve pas à elle seule une panne de l’interconnexion en service.",
-    "Territoires : les prises de position générales contre l’hyper-centralisation ou les data centers ne démontrent pas une opposition formelle au tracé précis Celtic et restent hors des fiches acteurs sans preuve nominative."
+    "Calendrier : EirGrid prévoit officiellement le T4 2028, mais les campagnes de pose et d’ensouillage demeurent exposées aux contraintes de mer. D’anciennes pages RTE mentionnent encore le printemps 2028 et doivent être lues comme des estimations datées.",
+    "Coûts : la référence régulatoire de 2022 s’établit à 1 482 M€ (hors provisions), tandis que la BEI donne un coût d’ensemble de 1,623 Md€ en novembre 2022. Les projections de 2,1 à 2,8 Md€ avancées par Alan McSweeney ne sont pas un budget final arrêté.",
+    "Financement : la subvention européenne CEF de 530,7 M€ est distincte d’une enveloppe de 800 M€ de financement bancaire. L'affirmation figurant dans une ressource agrégée selon laquelle la Région Bretagne apporte 400 M€ n'est pas étayée et ne doit pas être reprise.",
+    "Positions : Jennifer Whitmore soutient la nécessité de l’interconnexion ; Alan McSweeney critique ses coûts, non son existence. Uplift et sa campagne s’opposent aux data centers, sans preuve d’opposition au câble.",
+    "Maritime : la pose, la protection par ensouillage et la réparation ponctuelle de câbles sont des opérations distinctes ; la pause française jusqu’au printemps 2027 n’emporte pas l’arrêt du projet tout entier.",
+    "Gouvernance et marché : le portage conjoint RTE–EirGrid et le couplage européen des marchés sont documentés ; l’idée que la Bretagne n’exercerait aucun contrôle ou financerait directement 400 M€ reste une thèse éditoriale non vérifiée."
   ],
   "source_descriptions": [
     "news.google.com : Agrégateur / reprise de presse. Source de nombreuses reprises d’articles du corpus.",
@@ -153,48 +184,30 @@
   ],
   "vigilance_evidence_ids": [
     [
-      "evidence_0104",
-      "evidence_0105",
-      "evidence_0114",
-      "evidence_0115",
-      "evidence_0116",
-      "evidence_0117",
-      "evidence_0118",
-      "evidence_0119",
-      "evidence_0120"
+      "evidence_0167",
+      "evidence_0173"
     ],
     [
-      "evidence_0144",
-      "evidence_0145"
+      "evidence_0165",
+      "evidence_0164",
+      "evidence_0163"
     ],
     [
-      "evidence_0111",
-      "evidence_0112",
-      "evidence_0113",
-      "evidence_0141",
-      "evidence_0142",
-      "evidence_0143"
+      "evidence_0164"
     ],
     [
-      "evidence_0115",
-      "evidence_0116",
-      "evidence_0117",
-      "evidence_0118",
-      "evidence_0119",
-      "evidence_0120"
+      "evidence_0153",
+      "evidence_0163",
+      "evidence_0176"
     ],
     [
-      "evidence_0104",
-      "evidence_0105",
-      "evidence_0128"
+      "evidence_0173",
+      "evidence_0167"
     ],
     [
-      "evidence_0115",
-      "evidence_0116",
-      "evidence_0117",
-      "evidence_0118",
-      "evidence_0119",
-      "evidence_0120"
+      "evidence_0159",
+      "evidence_0171",
+      "evidence_0169"
     ]
   ],
   "documented_project_updates": [
@@ -203,6 +216,16 @@
       "text": "Le navire Île de Molène est signalé à Brest en octobre 2026 après une campagne liée à Celtic, sans établir de rôle de sous-traitant durable.",
       "evidence_ids": [
         "evidence_0148"
+      ]
+    },
+    {
+      "title": "Qualification rétrospective des personnes, finance et nœuds du réseau",
+      "text": "Corrections de la position de Jennifer Whitmore et d'acteurs contextualisés ; preuves institutionnelles sur le financement (530,7 M€ CEF et 800 M€ de prêts distincts), le calendrier T4 2028 et les acteurs du chantier.",
+      "evidence_ids": [
+        "evidence_0153",
+        "evidence_0164",
+        "evidence_0167",
+        "evidence_0161"
       ]
     }
   ],

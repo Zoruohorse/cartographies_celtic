@@ -1,0 +1,315 @@
+{
+  "project": "Celtic Interconnector",
+  "repository": "Zoruohorse/cartographies_celtic",
+  "date": "2026-11-03",
+  "input": "Celtic Interconnector.xlsx",
+  "excel_rows_reviewed": 94,
+  "baseline": {
+    "actors": 72,
+    "claims": 43,
+    "evidence": 152,
+    "relations": 119,
+    "sources": 49,
+    "relevant": 48,
+    "withUrl": 40,
+    "allNodes": 72,
+    "nodesWithUrl": 41,
+    "oldUnsourced": 103,
+    "legacy_unqualified_notices_wo_url": 15
+  },
+  "output": {
+    "actors": 72,
+    "claims": 45,
+    "evidence": 149,
+    "relations": 119,
+    "sources": 53,
+    "newSources": 19,
+    "newEvidence": 40,
+    "actors_with_url_linked_proof": 48,
+    "actor_total": 48,
+    "actor_coverage_url_percent": 100,
+    "nodes_with_url_linked_proof": 71,
+    "node_total": 72,
+    "network_coverage_url_percent": 98.61,
+    "nodes_without_url_proof": [
+      {
+        "id": "entity_0038",
+        "name": "news.google.com",
+        "type": "media"
+      }
+    ]
+  },
+  "changes": {
+    "positions_changed": [
+      {
+        "id": "actor_0002",
+        "from": {
+          "value": "opposed",
+          "summary": "Inquiète / interrogative sur le retard et ses conséquences."
+        },
+        "to": {
+          "value": "favorable",
+          "summary": "Déclare l'interconnexion France–Irlande nécessaire aux importations comme aux exportations d'électricité ; dénonce son retard, sans s'opposer au projet."
+        },
+        "why": "Prise de position explicite de la députée au Dáil"
+      },
+      {
+        "id": "actor_0004",
+        "from": {
+          "value": "neutral",
+          "summary": "Prudent / informé de difficultés techniques impactant le projet."
+        },
+        "to": {
+          "value": "favorable",
+          "summary": "A salué et accompagné la signature des accords du Celtic Interconnector ; demande en 2026 des éclaircissements sur les difficultés techniques et les retards."
+        },
+        "why": "Accord soutenu dès 2022 et explication donnée en 2026"
+      },
+      {
+        "id": "actor_0008",
+        "from": {
+          "value": "opposed",
+          "summary": "Critique de la consommation électrique des multinationales du numérique ; demande de moratoire sur les data centers."
+        },
+        "to": {
+          "value": "neutral",
+          "summary": "Campagne opposée à l'expansion des data centers irlandais ; aucune position de rejet du Celtic Interconnector n'est établie. Son enjeu est contextuel."
+        },
+        "why": "L'objet de la campagne n'est pas l'interconnexion"
+      },
+      {
+        "id": "actor_0009",
+        "from": {
+          "value": "favorable",
+          "summary": "Gestion et accompagnement du Celtic Interconnector Community Benefit Fund."
+        },
+        "to": {
+          "value": "neutral",
+          "summary": "SECAD assure la gestion et l'accompagnement des candidatures au fonds communautaire de Celtic ; cette fonction ne vaut pas approbation déclarée du projet."
+        },
+        "why": "Rôle administratif documenté, pas prise de position"
+      },
+      {
+        "id": "actor_0010",
+        "from": {
+          "value": "favorable",
+          "summary": "Bénéficiaires du Community Benefit Fund."
+        },
+        "to": {
+          "value": "neutral",
+          "summary": "Groupes locaux bénéficiaires du Community Benefit Fund à East Cork ; la réception d'une subvention n'établit pas une position collective favorable à l'interconnexion."
+        },
+        "why": "Bénéficiaires ≠ soutien exprimé"
+      },
+      {
+        "id": "actor_0031",
+        "from": {
+          "value": "opposed",
+          "summary": "Analyste financier très critique sur l'explosion prévisible du budget."
+        },
+        "to": {
+          "value": "neutral",
+          "summary": "Conteste les estimations budgétaires et la conduite du projet ; projette un coût final de 2,1 à 2,8 Md€, sans appeler à abandonner le principe de l'interconnexion."
+        },
+        "why": "Critique du coût distincte de l'opposition au câble"
+      },
+      {
+        "id": "actor_0036",
+        "from": {
+          "value": "favorable",
+          "summary": "Enceinte de coopération économique et institutionnelle dans laquelle le Celtic Interconnector est valorisé."
+        },
+        "to": {
+          "value": "neutral",
+          "summary": "Forum de coopération économique où le Celtic Interconnector est cité comme exemple ; aucune position institutionnelle autonome de soutien au tracé n'est démontrée."
+        },
+        "why": "Mention dans un forum ≠ position officielle"
+      }
+    ],
+    "new_positions": [
+      {
+        "actor": "actor_0046",
+        "id": "claim_0044",
+        "value": "favorable"
+      },
+      {
+        "actor": "actor_0048",
+        "id": "claim_0045",
+        "value": "favorable"
+      }
+    ],
+    "actor_categories_corrected": [
+      {
+        "id": "actor_0002",
+        "from": "elus-opp",
+        "to": "elus-fav"
+      }
+    ],
+    "legacy_unsourced_evidence_links_removed": 79,
+    "legacy_unsourced_evidence_deleted": 43,
+    "source_notices_without_url_deleted": [
+      {
+        "id": "source_0015",
+        "title": "Cork Chamber / EirGrid communication "
+      },
+      {
+        "id": "source_0014",
+        "title": "Capital.fr "
+      },
+      {
+        "id": "source_0013",
+        "title": "ABP / Agence Bretagne Presse "
+      },
+      {
+        "id": "source_0012",
+        "title": "Révolution Énergétique "
+      },
+      {
+        "id": "source_0011",
+        "title": "Mer et Marine "
+      },
+      {
+        "id": "source_0010",
+        "title": "Afloat.ie "
+      },
+      {
+        "id": "source_0009",
+        "title": "Silicon Republic "
+      },
+      {
+        "id": "source_0008",
+        "title": "Voiries et Réseaux "
+      },
+      {
+        "id": "source_0007",
+        "title": "Breizh-info.com "
+      },
+      {
+        "id": "source_0006",
+        "title": "TF1 Info "
+      },
+      {
+        "id": "source_0005",
+        "title": "La Tribune "
+      },
+      {
+        "id": "source_0004",
+        "title": "Offshore Energy "
+      },
+      {
+        "id": "source_0003",
+        "title": "Irish Examiner "
+      },
+      {
+        "id": "source_0002",
+        "title": "The Irish Times "
+      },
+      {
+        "id": "source_0001",
+        "title": "news.google.com "
+      }
+    ],
+    "media_nodes_enriched": [
+      "entity_0039",
+      "entity_0040",
+      "entity_0041",
+      "entity_0042",
+      "entity_0043",
+      "entity_0044",
+      "entity_0045",
+      "entity_0046",
+      "entity_0047",
+      "entity_0048",
+      "entity_0049",
+      "entity_0050",
+      "entity_0051",
+      "entity_0052"
+    ],
+    "issue_nodes_enriched": [
+      "entity_0053",
+      "entity_0054",
+      "entity_0055",
+      "entity_0056",
+      "entity_0057",
+      "entity_0058",
+      "entity_0059",
+      "entity_0060"
+    ],
+    "new_source_ids": [
+      "source_0052",
+      "source_0053",
+      "source_0054",
+      "source_0055",
+      "source_0056",
+      "source_0057",
+      "source_0058",
+      "source_0059",
+      "source_0060",
+      "source_0061",
+      "source_0062",
+      "source_0063",
+      "source_0064",
+      "source_0065",
+      "source_0066",
+      "source_0067",
+      "source_0068",
+      "source_0069",
+      "source_0070"
+    ],
+    "new_evidence_ids": [
+      "evidence_0153",
+      "evidence_0154",
+      "evidence_0155",
+      "evidence_0156",
+      "evidence_0157",
+      "evidence_0158",
+      "evidence_0159",
+      "evidence_0160",
+      "evidence_0161",
+      "evidence_0162",
+      "evidence_0163",
+      "evidence_0164",
+      "evidence_0165",
+      "evidence_0166",
+      "evidence_0167",
+      "evidence_0168",
+      "evidence_0169",
+      "evidence_0170",
+      "evidence_0171",
+      "evidence_0172",
+      "evidence_0173",
+      "evidence_0174",
+      "evidence_0175",
+      "evidence_0176",
+      "evidence_0177",
+      "evidence_0178",
+      "evidence_0179",
+      "evidence_0180",
+      "evidence_0181",
+      "evidence_0182",
+      "evidence_0183",
+      "evidence_0184",
+      "evidence_0185",
+      "evidence_0186",
+      "evidence_0187",
+      "evidence_0188",
+      "evidence_0189",
+      "evidence_0190",
+      "evidence_0191",
+      "evidence_0192"
+    ]
+  },
+  "criteria": {
+    "url_traceability": "Une preuve liée à une URL précise dont l'article ou document est identifié ; source texte examinée dans Excel ou sur le site.",
+    "web_direct": "Sources nouvellement ajoutées après consultation des pages par recherche web ; pages bloquées signalées séparément.",
+    "excel_text": "Sources antérieurement ajoutées depuis le texte intégral ou extrait de l'Excel, sans présomption de vérification directe.",
+    "unqualified": "Agrégateur Google News sans document éditorial spécifique ; anciennes preuves sans URL non retenues comme pièces qualifiées."
+  },
+  "vigilance": [
+    "Les ressources Google News ne remplacent pas les sources éditoriales : le nœud news.google.com reste à qualifier.",
+    "Une ressource Excel attribue 400 M€ à la Région Bretagne sans pièce probante ; affirmation écartée.",
+    "Les citations supprimées ne le sont que lorsqu'une nouvelle preuve liée à une URL couvre l'objet présenté ; des relations sans preuve nouvelle restent signalées.",
+    "Des sources de l'Excel peuvent être payantes ou inaccessibles et n'ont pas toutes fait l'objet d'une relecture directe."
+  ],
+  "excel_resource_handling": "94 lignes lues ; 33 URLs sont des agrégations Google News non qualifiées en tant que sources originales ; les ressources hors périmètre ou doublons n'ont pas été ajoutées artificiellement."
+}
