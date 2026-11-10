@@ -1,0 +1,3222 @@
+{
+  "schema": "differential-lot/v1",
+  "project": "Celtic Interconnector",
+  "date": "2026-11-10",
+  "base_commit": "8d8fea0f73c443f6fd5ec3528a6f0cb4a7a93e6e",
+  "applied_commit": "34c36c235bd6c374b7bb16a4a12e630a1f3502fd",
+  "purpose": "Export auditable des seules additions, remplacements et suppressions du lot, avec traçabilité des anciennes et nouvelles valeurs.",
+  "actors": {
+    "append": [],
+    "replace": [],
+    "remove": [
+      {
+        "id": "entity_0038",
+        "before": {
+          "id": "entity_0038",
+          "type": "media",
+          "name": "news.google.com",
+          "short_name": "news.google.com",
+          "description": "Agrégateur / reprise de presse.",
+          "roles": [
+            {
+              "label": "Médias / sources"
+            }
+          ],
+          "categories": [
+            "sources"
+          ],
+          "updated_at": "2026-10-02"
+        }
+      }
+    ]
+  },
+  "claims": {
+    "append": [],
+    "replace": [],
+    "remove": []
+  },
+  "evidence": {
+    "append": [
+      {
+        "id": "evidence_0193",
+        "type": "documented_summary",
+        "text": "Selon le reportage du Télégramme du 2 novembre, l'Aethra, navire de travaux offshore, est arrivé à Brest le 1er novembre 2026 pour une escale technique après être passé au large de Cléder, sur la zone du chantier Celtic. Ce seul passage n'atteste pas un contrat de sous-traitance au projet.",
+        "source_id": "source_0071",
+        "source_status": "qualified_from_excel",
+        "published_at": "2026-11-02",
+        "accessed_at": "2026-11-10",
+        "location": "Celtic(1).xlsx, ligne 2, texte de l'article",
+        "note": "Résumé du contenu transmis, non verbatim ; source non visitée directement."
+      },
+      {
+        "id": "evidence_0194",
+        "type": "documented_summary",
+        "text": "L'avis maritime relayé par Afloat.ie annonce des opérations de câbles confiées à Nexans pour CIDAC à partir du 2 novembre 2026, pour environ quatre jours sous réserve de la météo ; le navire désigné est Nexans Electra. Il s'agit d'une activité programmée, sans confirmation de son achèvement.",
+        "source_id": "source_0072",
+        "source_status": "qualified",
+        "published_at": "2026-11-01",
+        "accessed_at": "2026-11-10",
+        "location": "Article du 1er novembre 2026, avis maritime No 53/2026",
+        "note": "Résumé factuel vérifié directement sur la page."
+      },
+      {
+        "id": "evidence_0195",
+        "type": "documented_summary",
+        "text": "KIS-ORCA indique le 2 novembre 2026 que la campagne d'ensouillage et de protection en eaux irlandaises est achevée pour 2026. La majorité du tracé est rouverte à la pêche, à l'exception de deux zones fermées temporairement à +/- 1 000 m autour de l'axe, jusqu'à l'achèvement prévu en 2027.",
+        "source_id": "source_0073",
+        "source_status": "qualified",
+        "published_at": "2026-11-02",
+        "accessed_at": "2026-11-10",
+        "location": "Bulletin « Celtic Interconnector - Cable Activities », mise à jour du 2 novembre 2026",
+        "note": "Résumé factuel vérifié directement ; les fermetures ne doivent pas être assimilées à une interdiction sur l'ensemble du tracé."
+      }
+    ],
+    "replace": [],
+    "remove": [
+      {
+        "id": "evidence_0003",
+        "before": {
+          "id": "evidence_0003",
+          "type": "summary",
+          "text": "Il reçoit une mise à jour du ministre Darragh O’Brien sur le projet.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0005",
+        "before": {
+          "id": "evidence_0005",
+          "type": "quote",
+          "text": "Il évoque un projet « significant and complex » dans un environnement maritime difficile, rapportant des progrès plus lent que attendu.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0006",
+        "before": {
+          "id": "evidence_0006",
+          "type": "summary",
+          "text": "Malcolm Byrne lui reproche de ne pas savoir quand le connecteur serait opérationnel.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0007",
+        "before": {
+          "id": "evidence_0007",
+          "type": "summary",
+          "text": "Le document précise qu’Uplift critique les impacts des data centers sur le système électrique mais pas directement le câble.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0011",
+        "before": {
+          "id": "evidence_0011",
+          "type": "summary",
+          "text": "Confirme les retards liés à la fabrication et aux conditions marines ; gère les négociations de coûts additionnels.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0012",
+        "before": {
+          "id": "evidence_0012",
+          "type": "summary",
+          "text": "Présente le projet comme une interconnexion stratégique renforçant la sécurité d’approvisionnement et la souveraineté.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0013",
+        "before": {
+          "id": "evidence_0013",
+          "type": "quote",
+          "text": "Déclare que le lancement de la phase française constitue une « decisive milestone ».",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0014",
+        "before": {
+          "id": "evidence_0014",
+          "type": "quote",
+          "text": "Déclare : « Se soutenir entre pays européens reste un acte de souveraineté ».",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0015",
+        "before": {
+          "id": "evidence_0015",
+          "type": "summary",
+          "text": "Fabrication répartie entre Halden, Charleroi et Cortaillod.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0016",
+        "before": {
+          "id": "evidence_0016",
+          "type": "summary",
+          "text": "Intervient sur la station d’Ar Merzher.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0017",
+        "before": {
+          "id": "evidence_0017",
+          "type": "summary",
+          "text": "Fier d’avoir achevé l’infrastructure de la station Air Merzher avec des partenaires locaux.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0018",
+        "before": {
+          "id": "evidence_0018",
+          "type": "summary",
+          "text": "Présente le chantier comme un projet complexe au service de la transition écologique.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0019",
+        "before": {
+          "id": "evidence_0019",
+          "type": "summary",
+          "text": "Estime que le chantier illustre la capacité de NGE à coordonner des expertises.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0020",
+        "before": {
+          "id": "evidence_0020",
+          "type": "summary",
+          "text": "Pose de câbles HVDC, tranchées, fourreaux.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0021",
+        "before": {
+          "id": "evidence_0021",
+          "type": "summary",
+          "text": "Décrit les 21 premiers kilomètres construits par ses équipes.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0022",
+        "before": {
+          "id": "evidence_0022",
+          "type": "summary",
+          "text": "Décrit la pose par tronçons de modules.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0023",
+        "before": {
+          "id": "evidence_0023",
+          "type": "summary",
+          "text": "Construit la seconde section de la liaison souterraine jusqu’à la station de conversion.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0024",
+        "before": {
+          "id": "evidence_0024",
+          "type": "summary",
+          "text": "Forage sous la LGV Paris-Brest et sous l’Élorn.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0025",
+        "before": {
+          "id": "evidence_0025",
+          "type": "summary",
+          "text": "Réalise des opérations de câbles dans la mer Celtique.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0026",
+        "before": {
+          "id": "evidence_0026",
+          "type": "summary",
+          "text": "Associée aux opérations de réparation ou câblage.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0027",
+        "before": {
+          "id": "evidence_0027",
+          "type": "summary",
+          "text": "Contrat auprès de CIDAC pour accompagner conception et construction.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0028",
+        "before": {
+          "id": "evidence_0028",
+          "type": "summary",
+          "text": "Le projet est reconnu d’intérêt commun avec une subvention majeure accordée.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_0029",
+        "before": {
+          "id": "evidence_0029",
+          "type": "summary",
+          "text": "Mentionnée comme agence européenne soutenant activement le projet.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0037",
+        "before": {
+          "id": "evidence_relation_0037",
+          "type": "summary",
+          "text": "EirGrid est co-porteur du projet, responsable côté irlandais.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0038",
+        "before": {
+          "id": "evidence_relation_0038",
+          "type": "summary",
+          "text": "RTE est co-porteur côté français.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0039",
+        "before": {
+          "id": "evidence_relation_0039",
+          "type": "summary",
+          "text": "Structure projet mentionnée pour opérations et contrats.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0040",
+        "before": {
+          "id": "evidence_relation_0040",
+          "type": "summary",
+          "text": "Projet reconnu d’intérêt commun ; subvention européenne mentionnée avec montants divergents.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0041",
+        "before": {
+          "id": "evidence_relation_0041",
+          "type": "summary",
+          "text": "Agence européenne mentionnée comme soutenant le projet.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0042",
+        "before": {
+          "id": "evidence_relation_0042",
+          "type": "summary",
+          "text": "EirGrid devra obtenir l’autorisation de la CRU pour intégrer de nouvelles charges.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0043",
+        "before": {
+          "id": "evidence_relation_0043",
+          "type": "summary",
+          "text": "Critique du manque de clarté du calendrier et inquiétude sur les objectifs offshore.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0044",
+        "before": {
+          "id": "evidence_relation_0044",
+          "type": "summary",
+          "text": "Interroge le retard de l’interconnexion.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0045",
+        "before": {
+          "id": "evidence_relation_0045",
+          "type": "summary",
+          "text": "Il reçoit une mise à jour du ministre Darragh O’Brien.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0046",
+        "before": {
+          "id": "evidence_relation_0046",
+          "type": "summary",
+          "text": "Il indique avoir été informé par EirGrid de difficultés techniques.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0047",
+        "before": {
+          "id": "evidence_relation_0047",
+          "type": "summary",
+          "text": "Informé de difficultés techniques susceptibles de retarder le projet.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0048",
+        "before": {
+          "id": "evidence_relation_0048",
+          "type": "summary",
+          "text": "Il fournit une explication institutionnelle sur les retards et la complexité du projet.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0049",
+        "before": {
+          "id": "evidence_relation_0049",
+          "type": "summary",
+          "text": "Malcolm Byrne l’interpelle sur l’absence de date opérationnelle.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0050",
+        "before": {
+          "id": "evidence_relation_0050",
+          "type": "summary",
+          "text": "Campagne liée à Uplift.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0053",
+        "before": {
+          "id": "evidence_relation_0053",
+          "type": "summary",
+          "text": "Accompagnement du Celtic Interconnector Community Benefit Fund.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0054",
+        "before": {
+          "id": "evidence_relation_0054",
+          "type": "summary",
+          "text": "29 groupes et organisations reçoivent 838 987 € dans le cadre du fonds associé au projet.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0055",
+        "before": {
+          "id": "evidence_relation_0055",
+          "type": "summary",
+          "text": "SECAD accompagne les candidatures au fonds communautaire.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0056",
+        "before": {
+          "id": "evidence_relation_0056",
+          "type": "summary",
+          "text": "Régis Boigegrain est membre du directoire de RTE.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0057",
+        "before": {
+          "id": "evidence_relation_0057",
+          "type": "summary",
+          "text": "Rémi Courtial est directeur du projet Celtic Interconnector pour RTE.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0058",
+        "before": {
+          "id": "evidence_relation_0058",
+          "type": "summary",
+          "text": "Il présente la phase française comme une étape décisive.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0059",
+        "before": {
+          "id": "evidence_relation_0059",
+          "type": "summary",
+          "text": "Il défend le projet comme acte de souveraineté européenne.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0060",
+        "before": {
+          "id": "evidence_relation_0060",
+          "type": "summary",
+          "text": "Ingénierie, fabrication et installation du système de câbles.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0061",
+        "before": {
+          "id": "evidence_relation_0061",
+          "type": "summary",
+          "text": "Construction / équipements de station de conversion.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0062",
+        "before": {
+          "id": "evidence_relation_0062",
+          "type": "summary",
+          "text": "Réalisation de la station de conversion d’Ar Merzher.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0063",
+        "before": {
+          "id": "evidence_relation_0063",
+          "type": "summary",
+          "text": "Chef de projet Siemens Energy.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0064",
+        "before": {
+          "id": "evidence_relation_0064",
+          "type": "summary",
+          "text": "Directeur général de NGE.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0065",
+        "before": {
+          "id": "evidence_relation_0065",
+          "type": "summary",
+          "text": "Travaux de liaison terrestre côté français pour Nexans / RTE.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0066",
+        "before": {
+          "id": "evidence_relation_0066",
+          "type": "summary",
+          "text": "Chef de projet Eiffage Énergie Systèmes – Réseaux & Solutions.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0067",
+        "before": {
+          "id": "evidence_relation_0067",
+          "type": "summary",
+          "text": "Chef de projet EES / Eiffage Énergie Systèmes – Île-de-France.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0068",
+        "before": {
+          "id": "evidence_relation_0068",
+          "type": "summary",
+          "text": "Réalisation d’un tronçon de liaison souterraine.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0069",
+        "before": {
+          "id": "evidence_relation_0069",
+          "type": "summary",
+          "text": "Microtunnels et génie civil.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0070",
+        "before": {
+          "id": "evidence_relation_0070",
+          "type": "summary",
+          "text": "Opérations de câbles pour Nexans / CIDAC.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0071",
+        "before": {
+          "id": "evidence_relation_0071",
+          "type": "summary",
+          "text": "Opérations de câbles pour Nexans / CIDAC.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0072",
+        "before": {
+          "id": "evidence_relation_0072",
+          "type": "summary",
+          "text": "Contrat d’assistance à maîtrise d’ouvrage auprès de CIDAC.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0073",
+        "before": {
+          "id": "evidence_relation_0073",
+          "type": "summary",
+          "text": "Accompagnement de la conception et construction de la station de conversion française.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0075",
+        "before": {
+          "id": "evidence_relation_0075",
+          "type": "summary",
+          "text": "Son estimation est fondée sur des documents publics EirGrid et CRU.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      },
+      {
+        "id": "evidence_relation_0089",
+        "before": {
+          "id": "evidence_relation_0089",
+          "type": "summary",
+          "text": "Agrégateur / reprise de presse du corpus.",
+          "source_id": null,
+          "source_status": "to_qualify",
+          "published_at": null,
+          "accessed_at": null
+        }
+      }
+    ]
+  },
+  "relations": {
+    "append": [],
+    "replace": [
+      {
+        "id": "relation_0001",
+        "before": {
+          "id": "relation_0001",
+          "source_id": "actor_0011",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0037"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0001",
+          "source_id": "actor_0011",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0171"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0002",
+        "before": {
+          "id": "relation_0002",
+          "source_id": "actor_0012",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0038"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0002",
+          "source_id": "actor_0012",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0171"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0003",
+        "before": {
+          "id": "relation_0003",
+          "source_id": "actor_0026",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0039"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0003",
+          "source_id": "actor_0026",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0194",
+            "evidence_0136"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0004",
+        "before": {
+          "id": "relation_0004",
+          "source_id": "actor_0028",
+          "target_id": "project_celtic",
+          "type": "funds",
+          "summary": "financement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0040"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0004",
+          "source_id": "actor_0028",
+          "target_id": "project_celtic",
+          "type": "funds",
+          "summary": "financement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0142",
+            "evidence_0164"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0006",
+        "before": {
+          "id": "relation_0006",
+          "source_id": "actor_0030",
+          "target_id": "actor_0011",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0042"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0006",
+          "source_id": "actor_0030",
+          "target_id": "actor_0011",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0165"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0007",
+        "before": {
+          "id": "relation_0007",
+          "source_id": "actor_0001",
+          "target_id": "project_celtic",
+          "type": "criticizes",
+          "summary": "critique",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0043"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0007",
+          "source_id": "actor_0001",
+          "target_id": "project_celtic",
+          "type": "criticizes",
+          "summary": "critique",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0116"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0008",
+        "before": {
+          "id": "relation_0008",
+          "source_id": "actor_0002",
+          "target_id": "project_celtic",
+          "type": "criticizes",
+          "summary": "critique",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0044"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0008",
+          "source_id": "actor_0002",
+          "target_id": "project_celtic",
+          "type": "criticizes",
+          "summary": "critique",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0154"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0009",
+        "before": {
+          "id": "relation_0009",
+          "source_id": "actor_0003",
+          "target_id": "actor_0005",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0045"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0009",
+          "source_id": "actor_0003",
+          "target_id": "actor_0005",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0155"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0010",
+        "before": {
+          "id": "relation_0010",
+          "source_id": "actor_0004",
+          "target_id": "actor_0011",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0046"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0010",
+          "source_id": "actor_0004",
+          "target_id": "actor_0011",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0157"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0011",
+        "before": {
+          "id": "relation_0011",
+          "source_id": "actor_0004",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "position ambiguë",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0047"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0011",
+          "source_id": "actor_0004",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Soutien exprimé lors de la signature des accords, distinct des inquiétudes ultérieures sur le calendrier.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0156"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0012",
+        "before": {
+          "id": "relation_0012",
+          "source_id": "actor_0005",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0048"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0012",
+          "source_id": "actor_0005",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0158"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0013",
+        "before": {
+          "id": "relation_0013",
+          "source_id": "actor_0006",
+          "target_id": "actor_0001",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0049"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0013",
+          "source_id": "actor_0006",
+          "target_id": "actor_0001",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0117"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0014",
+        "before": {
+          "id": "relation_0014",
+          "source_id": "actor_0007",
+          "target_id": "actor_0008",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0050"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0014",
+          "source_id": "actor_0007",
+          "target_id": "actor_0008",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0159",
+            "evidence_0160"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0017",
+        "before": {
+          "id": "relation_0017",
+          "source_id": "actor_0009",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0053"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0017",
+          "source_id": "actor_0009",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0123",
+            "evidence_0124"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0018",
+        "before": {
+          "id": "relation_0018",
+          "source_id": "actor_0010",
+          "target_id": "project_celtic",
+          "type": "funds",
+          "summary": "financement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0054"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0018",
+          "source_id": "actor_0010",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "Bénéficiaires du Celtic Interconnector Community Benefit Fund : perception de subventions, sans financement de l'infrastructure ni soutien politique implicite.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0123"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0019",
+        "before": {
+          "id": "relation_0019",
+          "source_id": "actor_0009",
+          "target_id": "actor_0010",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0055"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0019",
+          "source_id": "actor_0009",
+          "target_id": "actor_0010",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0123"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0020",
+        "before": {
+          "id": "relation_0020",
+          "source_id": "actor_0013",
+          "target_id": "actor_0012",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0056"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0020",
+          "source_id": "actor_0013",
+          "target_id": "actor_0012",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0112"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0021",
+        "before": {
+          "id": "relation_0021",
+          "source_id": "actor_0014",
+          "target_id": "actor_0012",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0057"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0021",
+          "source_id": "actor_0014",
+          "target_id": "actor_0012",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0132"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0022",
+        "before": {
+          "id": "relation_0022",
+          "source_id": "actor_0013",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "soutien",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0058"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0022",
+          "source_id": "actor_0013",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "soutien",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0112"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0023",
+        "before": {
+          "id": "relation_0023",
+          "source_id": "actor_0014",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "soutien",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0059"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0023",
+          "source_id": "actor_0014",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "soutien",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0110"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0024",
+        "before": {
+          "id": "relation_0024",
+          "source_id": "actor_0015",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0060"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0024",
+          "source_id": "actor_0015",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "Nexans fournit et installe le système de câbles dans le cadre de marchés ; RTE et EirGrid demeurent les maîtres d'ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0109",
+            "evidence_0126"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0025",
+        "before": {
+          "id": "relation_0025",
+          "source_id": "actor_0016",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0061"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0025",
+          "source_id": "actor_0016",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "Siemens Energy réalise des équipements et stations de conversion du projet ; prestataire, non maître d'ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0126",
+            "evidence_0161"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0026",
+        "before": {
+          "id": "relation_0026",
+          "source_id": "actor_0018",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0062"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0026",
+          "source_id": "actor_0018",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "NGE participe à la réalisation de la station française Ar Merzher ; prestataire, non maître d'ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0130"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0027",
+        "before": {
+          "id": "relation_0027",
+          "source_id": "actor_0017",
+          "target_id": "actor_0016",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0063"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0027",
+          "source_id": "actor_0017",
+          "target_id": "actor_0016",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0161",
+            "evidence_0162"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0028",
+        "before": {
+          "id": "relation_0028",
+          "source_id": "actor_0019",
+          "target_id": "actor_0018",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0064"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0028",
+          "source_id": "actor_0019",
+          "target_id": "actor_0018",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0131"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0029",
+        "before": {
+          "id": "relation_0029",
+          "source_id": "actor_0020",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0065"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0029",
+          "source_id": "actor_0020",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "Eiffage Énergie Systèmes intervient dans le groupement chargé des travaux terrestres français ; prestataire, non maître d'ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0133"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0030",
+        "before": {
+          "id": "relation_0030",
+          "source_id": "actor_0021",
+          "target_id": "actor_0020",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0066"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0030",
+          "source_id": "actor_0021",
+          "target_id": "actor_0020",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0134"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0031",
+        "before": {
+          "id": "relation_0031",
+          "source_id": "actor_0022",
+          "target_id": "actor_0020",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0067"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0031",
+          "source_id": "actor_0022",
+          "target_id": "actor_0020",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0135"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0032",
+        "before": {
+          "id": "relation_0032",
+          "source_id": "actor_0023",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0068"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0032",
+          "source_id": "actor_0023",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "DLE Ouest réalise la seconde partie de la liaison souterraine terrestre française selon le communiqué d'Eiffage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0133"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0033",
+        "before": {
+          "id": "relation_0033",
+          "source_id": "actor_0024",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0069"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0033",
+          "source_id": "actor_0024",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "Eiffage Génie Civil et Eiffage Fondations réalisent des microtunnels et des travaux de génie civil.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0133"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0034",
+        "before": {
+          "id": "relation_0034",
+          "source_id": "actor_0025",
+          "target_id": "actor_0015",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0070"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0034",
+          "source_id": "actor_0025",
+          "target_id": "actor_0015",
+          "type": "institutional_link",
+          "summary": "Van Oord intervient pour Nexans sur des opérations maritimes ; relation contractuelle, non représentation juridique.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0129"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0035",
+        "before": {
+          "id": "relation_0035",
+          "source_id": "actor_0025",
+          "target_id": "actor_0026",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0071"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0035",
+          "source_id": "actor_0025",
+          "target_id": "actor_0026",
+          "type": "institutional_link",
+          "summary": "Van Oord intervient dans le cadre du projet CIDAC ; aucune représentation juridique de CIDAC n'est démontrée.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0129"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0036",
+        "before": {
+          "id": "relation_0036",
+          "source_id": "actor_0027",
+          "target_id": "actor_0026",
+          "type": "represents",
+          "summary": "rattachement",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0072"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0036",
+          "source_id": "actor_0027",
+          "target_id": "actor_0026",
+          "type": "institutional_link",
+          "summary": "Assystem intervient pour CIDAC dans le cadre d'un contrat d'assistance à maîtrise d'ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0136"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_0037",
+        "before": {
+          "id": "relation_0037",
+          "source_id": "actor_0027",
+          "target_id": "project_celtic",
+          "type": "leads",
+          "summary": "portage du projet",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0073"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_0037",
+          "source_id": "actor_0027",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "Assystem est un prestataire d'assistance à maîtrise d'ouvrage, et non le porteur juridique du projet.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0136"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0001",
+        "before": {
+          "id": "relation_position_claim_0001",
+          "source_id": "actor_0001",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Interroge le gouvernement sur le calendrier et critique le manque de transparence des retards ; aucune opposition au principe de Celtic n’est attestée. Position qualifiée comme critique de la conduite du projet, non opposant au câble.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0116"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0001",
+          "source_id": "actor_0001",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Interroge le gouvernement sur le calendrier et critique le manque de transparence des retards ; aucune opposition au principe de Celtic n’est attestée. Position qualifiée comme critique de la conduite du projet, non opposant au câble.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0116",
+            "evidence_0176"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0003",
+        "before": {
+          "id": "relation_position_claim_0003",
+          "source_id": "actor_0003",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Acteur parlementaire demandeur d’information ; position non explicitement opposée.",
+          "certainty": "medium",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0003"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0003",
+          "source_id": "actor_0003",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Acteur parlementaire demandeur d’information ; position non explicitement opposée.",
+          "certainty": "medium",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0155"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0005",
+        "before": {
+          "id": "relation_position_claim_0005",
+          "source_id": "actor_0005",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Institutionnel / explicatif sur les difficultés structurelles.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0005"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0005",
+          "source_id": "actor_0005",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Institutionnel / explicatif sur les difficultés structurelles.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0158"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0006",
+        "before": {
+          "id": "relation_position_claim_0006",
+          "source_id": "actor_0006",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Destinataire d’une interpellation, position publique non définie fermement.",
+          "certainty": "low",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0006"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0006",
+          "source_id": "actor_0006",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Destinataire d’une interpellation, position publique non définie fermement.",
+          "certainty": "low",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0117",
+            "evidence_0176"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0007",
+        "before": {
+          "id": "relation_position_claim_0007",
+          "source_id": "actor_0007",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Porte une campagne contre l’expansion des data centers ; non identifié comme opposant frontal au Celtic Interconnector.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0007"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0007",
+          "source_id": "actor_0007",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Porte une campagne contre l’expansion des data centers ; non identifié comme opposant frontal au Celtic Interconnector.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0159"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0011",
+        "before": {
+          "id": "relation_position_claim_0011",
+          "source_id": "actor_0011",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Co-porteur du projet ; responsable côté irlandais ; finance 65 % du coût final.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0011"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0011",
+          "source_id": "actor_0011",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Co-porteur du projet ; responsable côté irlandais ; finance 65 % du coût final.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0107",
+            "evidence_0108",
+            "evidence_0111",
+            "evidence_0114",
+            "evidence_0115",
+            "evidence_0121",
+            "evidence_0122",
+            "evidence_0123",
+            "evidence_0124",
+            "evidence_0125",
+            "evidence_0138",
+            "evidence_0139",
+            "evidence_0144",
+            "evidence_0145",
+            "evidence_0168",
+            "evidence_0167",
+            "evidence_0164"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0012",
+        "before": {
+          "id": "relation_position_claim_0012",
+          "source_id": "actor_0012",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Co-porteur côté français.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0012"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0012",
+          "source_id": "actor_0012",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Co-porteur côté français.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0104",
+            "evidence_0105",
+            "evidence_0106",
+            "evidence_0109",
+            "evidence_0110",
+            "evidence_0111",
+            "evidence_0112",
+            "evidence_0114",
+            "evidence_0138",
+            "evidence_0139",
+            "evidence_0144",
+            "evidence_0145",
+            "evidence_0146",
+            "evidence_0147",
+            "evidence_0149",
+            "evidence_0150",
+            "evidence_0151",
+            "evidence_0166",
+            "evidence_0164"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0013",
+        "before": {
+          "id": "relation_position_claim_0013",
+          "source_id": "actor_0013",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Porte-parole institutionnel de RTE.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0013"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0013",
+          "source_id": "actor_0013",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Porte-parole institutionnel de RTE.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0112",
+            "evidence_0166"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0014",
+        "before": {
+          "id": "relation_position_claim_0014",
+          "source_id": "actor_0014",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Défend le projet comme un acte de solidarité et de souveraineté européenne.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0014"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0014",
+          "source_id": "actor_0014",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Défend le projet comme un acte de solidarité et de souveraineté européenne.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0106",
+            "evidence_0110",
+            "evidence_0114",
+            "evidence_0132",
+            "evidence_0166"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0015",
+        "before": {
+          "id": "relation_position_claim_0015",
+          "source_id": "actor_0015",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable de l'ingénierie, fabrication et installation du système complet de câbles.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0015"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0015",
+          "source_id": "actor_0015",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable de l'ingénierie, fabrication et installation du système complet de câbles.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0107",
+            "evidence_0109",
+            "evidence_0111",
+            "evidence_0113",
+            "evidence_0126",
+            "evidence_0127",
+            "evidence_0128",
+            "evidence_0129",
+            "evidence_0133",
+            "evidence_0137",
+            "evidence_0149",
+            "evidence_0150",
+            "evidence_0151",
+            "evidence_0152",
+            "evidence_0187"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0016",
+        "before": {
+          "id": "relation_position_claim_0016",
+          "source_id": "actor_0016",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable de la construction et des équipements de la station de conversion.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0016"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0016",
+          "source_id": "actor_0016",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable de la construction et des équipements de la station de conversion.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0126",
+            "evidence_0130"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0017",
+        "before": {
+          "id": "relation_position_claim_0017",
+          "source_id": "actor_0017",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable du déploiement de la station de conversion.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0017"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0017",
+          "source_id": "actor_0017",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable du déploiement de la station de conversion.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0161",
+            "evidence_0162"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0018",
+        "before": {
+          "id": "relation_position_claim_0018",
+          "source_id": "actor_0018",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Réalisation de la station de conversion d’Ar Merzher en partenariat avec Siemens.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0018"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0018",
+          "source_id": "actor_0018",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Réalisation de la station de conversion d’Ar Merzher en partenariat avec Siemens.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0130",
+            "evidence_0131"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0019",
+        "before": {
+          "id": "relation_position_claim_0019",
+          "source_id": "actor_0019",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Porte-parole valorisant l'expertise française.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0019"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0019",
+          "source_id": "actor_0019",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Porte-parole valorisant l'expertise française.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0131"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0020",
+        "before": {
+          "id": "relation_position_claim_0020",
+          "source_id": "actor_0020",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Opère les travaux de liaison terrestre côté français pour Nexans et RTE.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0020"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0020",
+          "source_id": "actor_0020",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Opère les travaux de liaison terrestre côté français pour Nexans et RTE.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0133",
+            "evidence_0134",
+            "evidence_0135"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0021",
+        "before": {
+          "id": "relation_position_claim_0021",
+          "source_id": "actor_0021",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable des travaux de réseau.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0021"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0021",
+          "source_id": "actor_0021",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable des travaux de réseau.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0134"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0022",
+        "before": {
+          "id": "relation_position_claim_0022",
+          "source_id": "actor_0022",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable de la pose des câbles.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0022"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0022",
+          "source_id": "actor_0022",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsable de la pose des câbles.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0135"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0023",
+        "before": {
+          "id": "relation_position_claim_0023",
+          "source_id": "actor_0023",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Réalisation d’un tronçon critique de liaison souterraine.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0023"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0023",
+          "source_id": "actor_0023",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Réalisation d’un tronçon critique de liaison souterraine.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0133"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0024",
+        "before": {
+          "id": "relation_position_claim_0024",
+          "source_id": "actor_0024",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsables des microtunnels et des infrastructures lourdes.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0024"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0024",
+          "source_id": "actor_0024",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Responsables des microtunnels et des infrastructures lourdes.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0133"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0025",
+        "before": {
+          "id": "relation_position_claim_0025",
+          "source_id": "actor_0025",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Opérateur des campagnes de câbles en pleine mer pour Nexans.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0025"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0025",
+          "source_id": "actor_0025",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Opérateur des campagnes de câbles en pleine mer pour Nexans.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0129",
+            "evidence_0187"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0026",
+        "before": {
+          "id": "relation_position_claim_0026",
+          "source_id": "actor_0026",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Maîtrise d'ouvrage / entité légale centrale pour les opérations et les contrats de service.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0026"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0026",
+          "source_id": "actor_0026",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Maîtrise d'ouvrage / entité légale centrale pour les opérations et les contrats de service.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0128",
+            "evidence_0129",
+            "evidence_0136"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0027",
+        "before": {
+          "id": "relation_position_claim_0027",
+          "source_id": "actor_0027",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Assistance à maîtrise d’ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0027"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0027",
+          "source_id": "actor_0027",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Assistance à maîtrise d’ouvrage.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0136"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0028",
+        "before": {
+          "id": "relation_position_claim_0028",
+          "source_id": "actor_0028",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Financeur de référence soutenant le projet.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0028"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0028",
+          "source_id": "actor_0028",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Financeur de référence soutenant le projet.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0142",
+            "evidence_0143",
+            "evidence_0111",
+            "evidence_0112",
+            "evidence_0164"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0029",
+        "before": {
+          "id": "relation_position_claim_0029",
+          "source_id": "actor_0029",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Apporte un soutien institutionnel et technique.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0029"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0029",
+          "source_id": "actor_0029",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Apporte un soutien institutionnel et technique.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0142",
+            "evidence_0111",
+            "evidence_0112"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0030",
+        "before": {
+          "id": "relation_position_claim_0030",
+          "source_id": "actor_0030",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "La CRU confirme conjointement avec la CRE la poursuite de l’investissement dans Celtic et la répartition des coûts en 2022. Soutien réglementaire au financement, sans position territoriale.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0144",
+            "evidence_0145"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0030",
+          "source_id": "actor_0030",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "La CRU confirme conjointement avec la CRE la poursuite de l’investissement dans Celtic et la répartition des coûts en 2022. Soutien réglementaire au financement, sans position territoriale.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0144",
+            "evidence_0145",
+            "evidence_0165"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0032",
+        "before": {
+          "id": "relation_position_claim_0032",
+          "source_id": "actor_0032",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Déplore les retards et juge Celtic bénéfique à la sécurité d’approvisionnement et aux consommateurs irlandais ; appelle à une mise en service rapide.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0118"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0032",
+          "source_id": "actor_0032",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Déplore les retards et juge Celtic bénéfique à la sécurité d’approvisionnement et aux consommateurs irlandais ; appelle à une mise en service rapide.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0118",
+            "evidence_0176"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0033",
+        "before": {
+          "id": "relation_position_claim_0033",
+          "source_id": "actor_0033",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Juge le retard frustrant et défend l’interconnexion comme protection contre les hausses de prix du gaz et les risques sur les gazoducs.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0119"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0033",
+          "source_id": "actor_0033",
+          "target_id": "project_celtic",
+          "type": "supports",
+          "summary": "Juge le retard frustrant et défend l’interconnexion comme protection contre les hausses de prix du gaz et les risques sur les gazoducs.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0119",
+            "evidence_0176"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      },
+      {
+        "id": "relation_position_claim_0034",
+        "before": {
+          "id": "relation_position_claim_0034",
+          "source_id": "actor_0034",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Alerte sur les conséquences du retard pour la sécurité électrique irlandaise et la demande liée aux data centers, sans prise de position opposée au projet.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0120"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-02"
+        },
+        "after": {
+          "id": "relation_position_claim_0034",
+          "source_id": "actor_0034",
+          "target_id": "project_celtic",
+          "type": "position_on",
+          "summary": "Alerte sur les conséquences du retard pour la sécurité électrique irlandaise et la demande liée aux data centers, sans prise de position opposée au projet.",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_0120",
+            "evidence_0176"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-11-10"
+        }
+      }
+    ],
+    "remove": [
+      {
+        "id": "relation_0005",
+        "before": {
+          "id": "relation_0005",
+          "source_id": "actor_0029",
+          "target_id": "project_celtic",
+          "type": "institutional_link",
+          "summary": "relation institutionnelle",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0041"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        }
+      },
+      {
+        "id": "relation_0039",
+        "before": {
+          "id": "relation_0039",
+          "source_id": "actor_0031",
+          "target_id": "actor_0011",
+          "type": "documented_by",
+          "summary": "source documentaire",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0075"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        }
+      },
+      {
+        "id": "relation_0053",
+        "before": {
+          "id": "relation_0053",
+          "source_id": "entity_0038",
+          "target_id": "project_celtic",
+          "type": "documented_by",
+          "summary": "source documentaire",
+          "certainty": "high",
+          "status": "reported",
+          "evidence_ids": [
+            "evidence_relation_0089"
+          ],
+          "valid_from": null,
+          "valid_to": null,
+          "updated_at": "2026-10-02"
+        }
+      }
+    ]
+  },
+  "sources": {
+    "append": [
+      {
+        "id": "source_0071",
+        "title": "L’Aethra, un navire spécialiste de la pose de câbles sous-marins, en escale à Brest",
+        "publisher": "Le Télégramme",
+        "author": null,
+        "date": "2026-11-02",
+        "url": "https://www.letelegramme.fr/finistere/brest-29200/laethra-un-navire-specialiste-de-la-pose-de-cables-sous-marins-en-escale-a-brest-7150950.php",
+        "source_type": "press",
+        "status": "qualified_from_excel",
+        "access": "Article et texte reproduits dans Celtic(1).xlsx, ligne 2 ; la page éditoriale n'a pas pu être consultée directement (robots.txt).",
+        "excel_row": 2,
+        "discovered_at": "2026-11-10"
+      },
+      {
+        "id": "source_0072",
+        "title": "Marine Notice: Cable Lay Operations for Celtic Interconnector Project",
+        "publisher": "Afloat.ie",
+        "author": "Afloat.ie Team",
+        "date": "2026-11-01",
+        "url": "https://afloat.ie/port-news/undersea-cables/item/73595-marine-notice-cable-lay-operations-for-celtic-interconnector-project",
+        "source_type": "marine_notice_reporting",
+        "status": "qualified",
+        "access": "Page éditoriale consultée directement ; article reproduisant l'avis maritime No 53/2026 et précisant les conditions de l'annonce.",
+        "discovered_at": "2026-11-10"
+      },
+      {
+        "id": "source_0073",
+        "title": "Celtic Interconnector - Cable Activities (notice de pêche et travaux maritimes)",
+        "publisher": "KIS-ORCA / Kingfisher Bulletin",
+        "author": null,
+        "date": "2026-11-02",
+        "url": "https://kis-orca.org/news/?id=6066",
+        "source_type": "marine_safety_bulletin",
+        "status": "qualified",
+        "access": "Bulletin maritime consulté directement ; confirmation de la clôture de la phase 2026 de protection en eaux irlandaises et restrictions résiduelles.",
+        "discovered_at": "2026-11-10"
+      }
+    ],
+    "replace": [],
+    "remove": []
+  },
+  "meta": {
+    "before": {
+      "last_updated": "2026-11-03",
+      "griefs_count": 8,
+      "vigilance_count": 6,
+      "documented_project_updates_count": 2
+    },
+    "after": {
+      "last_updated": "2026-11-10",
+      "griefs_added": [
+        {
+          "title": "🎣 Interactions entre travaux et pêche en eaux irlandaises",
+          "text": "Le bulletin maritime du 2 novembre 2026 indique la réouverture de la majeure partie du tracé irlandais aux activités de pêche après la phase 2026 de protection, mais deux zones demeurent temporairement fermées jusqu'à l'achèvement attendu des protections en 2027. Le périmètre maritime français relève de contraintes distinctes.",
+          "evidence_ids": [
+            "evidence_0195"
+          ],
+          "source_ids": [
+            "source_0073"
+          ]
+        }
+      ],
+      "vigilance_added": [
+        "Pêche et navigation en Irlande : les deux secteurs d'exclusion temporaires annoncés le 2 novembre 2026 ne doivent pas être confondus avec une fermeture générale du tracé ; suivre l'achèvement de l'ensouillage en 2027."
+      ],
+      "documented_project_updates_added": [
+        {
+          "title": "Mouvements maritimes au début de novembre",
+          "text": "Un avis maritime annonce l'activité de Nexans Electra du 2 au 6 novembre environ, sous réserve des conditions opérationnelles. Une escale de l'Aethra à Brest est documentée, sans preuve de contrat permanent sur le chantier.",
+          "evidence_ids": [
+            "evidence_0193",
+            "evidence_0194"
+          ]
+        },
+        {
+          "title": "Fin de campagne 2026 et restrictions résiduelles en Irlande",
+          "text": "La campagne 2026 d'ensouillage/protection en eaux irlandaises est annoncée achevée au 2 novembre ; deux zones demeurent temporairement fermées jusqu'à l'achèvement des protections envisagé en 2027.",
+          "evidence_ids": [
+            "evidence_0195"
+          ]
+        }
+      ]
+    }
+  },
+  "taxonomy_extension": {
+    "before": [
+      "categories",
+      "stances",
+      "certainty_levels",
+      "relation_types"
+    ],
+    "after": [
+      "categories",
+      "stances",
+      "certainty_levels",
+      "relation_types",
+      "timeline"
+    ],
+    "added": {
+      "timeline": {
+        "event_type": "first_documented_appearance",
+        "categories": [
+          {
+            "id": "opposants",
+            "label": "Opposants et experts",
+            "color": "#dc2626"
+          },
+          {
+            "id": "elus-opp",
+            "label": "Élus opposés ou critiques",
+            "color": "#8b5cf6"
+          },
+          {
+            "id": "elus-fav",
+            "label": "Élus favorables ou prudents",
+            "color": "#2563eb"
+          },
+          {
+            "id": "orgs",
+            "label": "Organisations et collectifs",
+            "color": "#10b981"
+          },
+          {
+            "id": "porteurs",
+            "label": "Porteurs et économie",
+            "color": "#0f766e"
+          },
+          {
+            "id": "context",
+            "label": "Écosystème et infrastructures",
+            "color": "#0ea5e9"
+          }
+        ],
+        "fallback_category": "orgs",
+        "excluded_actor_categories": [
+          "project",
+          "griefs",
+          "sources",
+          "context"
+        ],
+        "stances": [
+          {
+            "id": "opposed",
+            "label": "Opposé",
+            "color": "#ef4444"
+          },
+          {
+            "id": "favorable",
+            "label": "Favorable",
+            "color": "#16a34a"
+          },
+          {
+            "id": "neutral",
+            "label": "Prudent / neutre",
+            "color": "#f59e0b"
+          },
+          {
+            "id": "unknown",
+            "label": "Non qualifié",
+            "color": "#94a3b8"
+          }
+        ]
+      }
+    }
+  },
+  "new_files": {
+    "content": "data/content.json",
+    "timeline": "data/timeline.json",
+    "evolution_js": "assets/js/evolution.js",
+    "evolution_css": "assets/css/evolution.css",
+    "audit": "data/qualification-audit-20261110.json"
+  },
+  "reasons": {
+    "relation_0018": "Les groupes locaux bénéficient du fonds communautaire, ils ne financent pas l'infrastructure.",
+    "relation_0024": "Nexans assure les câbles ; les maîtres d'ouvrage sont RTE et EirGrid.",
+    "relation_0025": "Siemens Energy est un prestataire industriel, pas un porteur juridique.",
+    "relation_0026": "NGE est un prestataire industriel, pas un porteur juridique.",
+    "relation_0029": "Eiffage Énergie Systèmes est un prestataire de travaux, pas un porteur juridique.",
+    "relation_0032": "DLE Ouest est prestataire de travaux, pas un porteur juridique.",
+    "relation_0033": "Eiffage Génie Civil est prestataire de travaux, pas un porteur juridique.",
+    "relation_0034": "Relation contractuelle Van Oord-Nexans, pas mandat de représentation.",
+    "relation_0035": "Relation de projet Van Oord-CIDAC, pas mandat de représentation.",
+    "relation_0036": "Assystem dispose d'un contrat d'assistance, pas de représentation.",
+    "relation_0037": "Assystem est assistant à maîtrise d'ouvrage, pas maître d'ouvrage.",
+    "relation_0011": "Mise en cohérence avec la position favorable documentée de Micheál Martin.",
+    "relation_0005": "Relation CINEA retirée, preuve propre à cette relation non déterminée.",
+    "relation_0039": "Relation analyste→EirGrid de type documented_by non démontrée et mal orientée.",
+    "relation_0053": "Agrégateur Google News exclu du réseau des sources éditoriales."
+  },
+  "qualifications": {
+    "web_direct_ids": [
+      "source_0072",
+      "source_0073"
+    ],
+    "excel_text_only_ids": [
+      "source_0071"
+    ],
+    "statements_not_proven": [
+      "Mission contractuelle de l'Aethra pour Celtic",
+      "Achèvement matériel des opérations de Nexans Electra annoncées à partir du 2 novembre",
+      "Nouvelle date définitive de mise en service"
+    ]
+  },
+  "quality": {
+    "crossrefs": "pass",
+    "unique_ids": "pass",
+    "taxonomy": "pass",
+    "source_urls": "pass",
+    "five_tabs": "pass",
+    "timeline_date_coverage": {
+      "total": 48,
+      "dated": 25,
+      "undated": 23
+    }
+  },
+  "exact_modified_paths": [
+    "apps/cards/index.html",
+    "assets/css/cards.css",
+    "assets/css/evolution.css",
+    "assets/js/cards.js",
+    "assets/js/data-loader.js",
+    "assets/js/evolution.js",
+    "config/taxonomy.json",
+    "data/actors.json",
+    "data/content.json",
+    "data/evidence.json",
+    "data/meta.json",
+    "data/qualification-audit-20261110.json",
+    "data/relations.json",
+    "data/sources.json",
+    "data/timeline.json",
+    "data/delta-20261110.json"
+  ]
+}
