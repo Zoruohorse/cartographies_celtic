@@ -687,5 +687,42 @@
     "verification": "web_consulted",
     "provenance": "original_recovered_or_equivalent",
     "access": "Page publique vérifiée lors de l'audit rétrospectif du 03/11/2026"
+  },
+  {
+    "id": "source_0071",
+    "title": "L’Aethra, un navire spécialiste de la pose de câbles sous-marins, en escale à Brest",
+    "publisher": "Le Télégramme",
+    "author": null,
+    "date": "2026-11-02",
+    "url": "https://www.letelegramme.fr/finistere/brest-29200/laethra-un-navire-specialiste-de-la-pose-de-cables-sous-marins-en-escale-a-brest-7150950.php",
+    "source_type": "press",
+    "status": "qualified_from_excel",
+    "access": "Article et texte reproduits dans Celtic(1).xlsx, ligne 2 ; la page éditoriale n'a pas pu être consultée directement (robots.txt).",
+    "excel_row": 2,
+    "discovered_at": "2026-11-10"
+  },
+  {
+    "id": "source_0072",
+    "title": "Marine Notice: Cable Lay Operations for Celtic Interconnector Project",
+    "publisher": "Afloat.ie",
+    "author": "Afloat.ie Team",
+    "date": "2026-11-01",
+    "url": "https://afloat.ie/port-news/undersea-cables/item/73595-marine-notice-cable-lay-operations-for-celtic-interconnector-project",
+    "source_type": "marine_notice_reporting",
+    "status": "qualified",
+    "access": "Page éditoriale consultée directement ; article reproduisant l'avis maritime No 53/2026 et précisant les conditions de l'annonce.",
+    "discovered_at": "2026-11-10"
+  },
+  {
+    "id": "source_0073",
+    "title": "Celtic Interconnector - Cable Activities (notice de pêche et travaux maritimes)",
+    "publisher": "KIS-ORCA / Kingfisher Bulletin",
+    "author": null,
+    "date": "2026-11-02",
+    "url": "https://kis-orca.org/news/?id=6066",
+    "source_type": "marine_safety_bulletin",
+    "status": "qualified",
+    "access": "Bulletin maritime consulté directement ; confirmation de la clôture de la phase 2026 de protection en eaux irlandaises et restrictions résiduelles.",
+    "discovered_at": "2026-11-10"
   }
 ]

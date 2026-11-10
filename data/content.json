@@ -1,0 +1,219 @@
+{
+  "project_status": "Après 98 km de câbles posés côté français, l'ensouillage français est annoncé en pause jusqu'au printemps 2027 ; campagne 2026 de protection en eaux irlandaises déclarée terminée, avec deux zones encore restreintes. EirGrid maintient une échéance prévisionnelle au T4 2028.",
+  "project_summary": "Liaison HVDC de 700 MW (575 km dont environ 500 km maritimes), portée par RTE et EirGrid. Les difficultés de protection et les campagnes en mer conditionnent la poursuite du calendrier, sans nouvelle annonce de report définitif dans le lot.",
+  "fact_sheet": [
+    {
+      "id": "celtic_fact_001",
+      "label": "Capacité d'échange",
+      "value": "700 MW",
+      "qualifier": "Capacité de transit de la liaison, non puissance appelée par un data center.",
+      "evidence_ids": [
+        "evidence_0166"
+      ]
+    },
+    {
+      "id": "celtic_fact_002",
+      "label": "Longueur du projet",
+      "value": "575 km",
+      "qualifier": "Environ 500 km de segment sous-marin.",
+      "evidence_ids": [
+        "evidence_0166"
+      ]
+    },
+    {
+      "id": "celtic_fact_003",
+      "label": "Pose française 2026",
+      "value": "98 km",
+      "qualifier": "Câble posé au printemps 2026 ; la protection de ces câbles constitue une étape distincte.",
+      "evidence_ids": [
+        "evidence_0106",
+        "evidence_0104"
+      ]
+    },
+    {
+      "id": "celtic_fact_004",
+      "label": "Pose irlandaise antérieure",
+      "value": "84 km",
+      "qualifier": "Segment de pose mentionné par la communication d'EirGrid ; ne vaut pas achèvement de la protection sur toute la route.",
+      "evidence_ids": [
+        "evidence_0108"
+      ]
+    },
+    {
+      "id": "celtic_fact_005",
+      "label": "Échéance d'exploitation",
+      "value": "T4 2028 (prévision)",
+      "qualifier": "Dernière échéance d'EirGrid documentée ; susceptible d'évoluer.",
+      "evidence_ids": [
+        "evidence_0167"
+      ]
+    },
+    {
+      "id": "celtic_fact_006",
+      "label": "Financement européen",
+      "value": "530,7 M€ CEF",
+      "qualifier": "Subvention distincte des 800 M€ de financements bancaires et du coût d'investissement.",
+      "evidence_ids": [
+        "evidence_0164"
+      ]
+    },
+    {
+      "id": "celtic_fact_007",
+      "label": "Travaux maritimes de novembre",
+      "value": "2 novembre 2026 (début annoncé)",
+      "qualifier": "Nexans Electra annoncé pour environ quatre jours, sans confirmation de fin d'exécution.",
+      "evidence_ids": [
+        "evidence_0194"
+      ]
+    },
+    {
+      "id": "celtic_fact_008",
+      "label": "Protection côté irlandais",
+      "value": "2 zones de pêche encore fermées",
+      "qualifier": "Restrictions partielles annoncées le 2 novembre 2026 ; finalisation prévue en 2027.",
+      "evidence_ids": [
+        "evidence_0195"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "celtic_milestone_001",
+      "date": "2022-11-25",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Accords financiers et industriels franco-irlandais",
+      "details": "Accords de réalisation ; distinction du financement européen CEF et des prêts, sans les additionner comme deux subventions.",
+      "evidence_ids": [
+        "evidence_0164",
+        "evidence_0191"
+      ]
+    },
+    {
+      "id": "celtic_milestone_002",
+      "date": "2023-11-02",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Démarrage des travaux côté irlandais",
+      "details": "Lancement annoncé à Knockraha et identification de Sorensen Civil Engineering comme sous-traitant terrestre de Nexans.",
+      "evidence_ids": [
+        "evidence_0125",
+        "evidence_0126"
+      ]
+    },
+    {
+      "id": "celtic_milestone_003",
+      "date": "2025-09-29",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Campagne de pose irlandaise",
+      "details": "Début du déroulage d'une section de 84 km, dans une opération distincte de l'ensouillage.",
+      "evidence_ids": [
+        "evidence_0108"
+      ]
+    },
+    {
+      "id": "celtic_milestone_004",
+      "date": "2026-03-24",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Présentation de la campagne française",
+      "details": "RTE prépare le déroulage au large de Cléder et décrit les campagnes restantes.",
+      "evidence_ids": [
+        "evidence_0111",
+        "evidence_0166"
+      ]
+    },
+    {
+      "id": "celtic_milestone_005",
+      "date": "2026-05-28",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Travaux terrestres côté irlandais achevés",
+      "details": "EirGrid confirme la fin et les essais des travaux de pose terrestre ; le chantier global se poursuit.",
+      "evidence_ids": [
+        "evidence_0168"
+      ]
+    },
+    {
+      "id": "celtic_milestone_006",
+      "date": "2026-06-17",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Première campagne française de pose : 98 km",
+      "details": "Achèvement communiqué pour la mi-mai ; date du 17 juin correspondant au document de bilan transmis.",
+      "evidence_ids": [
+        "evidence_0106"
+      ]
+    },
+    {
+      "id": "celtic_milestone_007",
+      "date": "2026-09-30",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Pause de protection des câbles côté français",
+      "details": "RTE confirme la suspension des opérations d'ensouillage jusqu'au printemps 2027 pour difficultés météo et géologiques.",
+      "evidence_ids": [
+        "evidence_0104",
+        "evidence_0105"
+      ]
+    },
+    {
+      "id": "celtic_milestone_008",
+      "date": "2026-11-01",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Annonce de campagne Nexans Electra",
+      "details": "Avis annonçant des travaux de câbles à partir du 2 novembre pour environ quatre jours, sous réserve des contraintes météo et opérationnelles.",
+      "evidence_ids": [
+        "evidence_0194"
+      ]
+    },
+    {
+      "id": "celtic_milestone_009",
+      "date": "2026-11-01",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Escale technique de l'Aethra à Brest",
+      "details": "Le Télégramme rapporte une escale après un passage au large de Cléder ; aucun marché de sous-traitance n'est déduit.",
+      "evidence_ids": [
+        "evidence_0193"
+      ]
+    },
+    {
+      "id": "celtic_milestone_010",
+      "date": "2026-11-02",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Campagne 2026 de protection déclarée achevée en Irlande",
+      "details": "Réouverture partielle de la route à la pêche, deux secteurs restant fermés jusqu'aux protections envisagées en 2027.",
+      "evidence_ids": [
+        "evidence_0195"
+      ]
+    },
+    {
+      "id": "celtic_milestone_011",
+      "date": "2027-03-01",
+      "period_precision": "month",
+      "status": "forecast",
+      "title": "Reprise attendue des travaux de protection côté français",
+      "details": "« Printemps 2027 » communiqué par RTE ; mars est uniquement une borne conventionnelle de saison, pas une date arrêtée.",
+      "evidence_ids": [
+        "evidence_0104"
+      ]
+    },
+    {
+      "id": "celtic_milestone_012",
+      "date": "2028-10-01",
+      "period_precision": "quarter",
+      "status": "forecast",
+      "title": "Mise en service attendue au T4 2028",
+      "details": "EirGrid prévoit le dernier trimestre 2028 ; la date du 1er octobre est un repère de début de trimestre et non une mise en service promise ce jour.",
+      "evidence_ids": [
+        "evidence_0167"
+      ]
+    }
+  ],
+  "methodology": "Jalons liés à des preuves traçables ; la date de publication peut être distincte de la date du fait. Les prévisions et repères de saison/trimestre ne sont jamais présentés comme dates fermes.",
+  "last_updated": "2026-11-10"
+}

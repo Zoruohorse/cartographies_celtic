@@ -1,0 +1,966 @@
+[
+  {
+    "id": "timeline_celtic_actor_0001",
+    "actor_id": "actor_0001",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-opp",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Fianna Fáil TD pour Wexford/Wicklow",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-28",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0052"
+    ],
+    "evidence_ids": [
+      "evidence_0153"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Jennifer Whitmore qualifie l'interconnexion avec la France de nécessaire pour exporter et importer de l'électricité, et interpelle le gouvernement sur son retard ; elle ne s'oppose pas au câble.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0054"
+    ],
+    "evidence_ids": [
+      "evidence_0155"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Roderic O’Gorman sollicite du ministre Darragh O’Brien une mise à jour de l'avancement de Celtic ; le fait de poser cette question ne constitue ni un soutien ni une opposition au projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0069"
+    ],
+    "evidence_ids": [
+      "evidence_0156"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Micheál Martin, alors Taoiseach, salue avec ses homologues français et irlandais les accords techniques et financiers signés pour la construction de Celtic le 25 novembre 2022.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0054"
+    ],
+    "evidence_ids": [
+      "evidence_0158"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Darragh O’Brien indique que les difficultés des fonds marins et de la protection du câble ont ralenti les travaux et que la mise en service est désormais envisagée au dernier trimestre 2028.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Minister of State",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2021-09-28",
+    "date_precision": "month",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0055"
+    ],
+    "evidence_ids": [
+      "evidence_0159"
+    ],
+    "confidence": "medium",
+    "date_basis": "Période connue au mois seulement ; jour 01 conventionnel pour regroupement statistique.",
+    "summary": "Uplift demande un moratoire sur de nouveaux data centers en Irlande en raison de leur pression sur l'électricité et l'eau ; cette campagne ne vise pas explicitement à empêcher Celtic Interconnector.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2021-09-28",
+    "date_precision": "month",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0055"
+    ],
+    "evidence_ids": [
+      "evidence_0160"
+    ],
+    "confidence": "medium",
+    "date_basis": "Période connue au mois seulement ; jour 01 conventionnel pour regroupement statistique.",
+    "summary": "La campagne « Don't let Big Tech steal our light » demande de suspendre de nouveaux data centers jusqu'à une consultation nationale ; aucune opposition au câble Celtic n'y est formulée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Administrateur / accompagnateur de fonds",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Acteurs locaux bénéficiaires",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0060"
+    ],
+    "evidence_ids": [
+      "evidence_0164"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "La BEI distingue une subvention CEF de 530,7 M€, un financement bancaire de 800 M€ (BEI, Danske Bank, BNP, Barclays) et 404 M€ apportés par RTE. Les montants de 530,7 et 800 M€ ne décrivent pas la même nature de financement.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0060"
+    ],
+    "evidence_ids": [
+      "evidence_0164"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "La BEI distingue une subvention CEF de 530,7 M€, un financement bancaire de 800 M€ (BEI, Danske Bank, BNP, Barclays) et 404 M€ apportés par RTE. Les montants de 530,7 et 800 M€ ne décrivent pas la même nature de financement.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Directeur général (division gestion infrastructures RTE)",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0021"
+    ],
+    "evidence_ids": [
+      "evidence_0106"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Rémi Courtial indique que le navire Calypso a posé 98 km de câble sous-marin côté français au printemps 2026, campagne achevée mi-mai, et que les travaux terrestres devaient être achevés fin 2026.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2023-11-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0044"
+    ],
+    "evidence_ids": [
+      "evidence_0126"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Sorensen Civil Engineering Ltd est sous-traitant de Nexans pour la réalisation de la liaison terrestre côté East Cork ; Siemens Energy réalise la station de conversion de Ballyadam.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2023-11-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0044"
+    ],
+    "evidence_ids": [
+      "evidence_0126"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Sorensen Civil Engineering Ltd est sous-traitant de Nexans pour la réalisation de la liaison terrestre côté East Cork ; Siemens Energy réalise la station de conversion de Ballyadam.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-01",
+    "date_precision": "month",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0056"
+    ],
+    "evidence_ids": [
+      "evidence_0161"
+    ],
+    "confidence": "medium",
+    "date_basis": "Période connue au mois seulement ; jour 01 conventionnel pour regroupement statistique.",
+    "summary": "Alexandre Pinson, directeur de projet chez Siemens Energy, décrit la station de conversion et la coopération avec Arcadis ; il présente l'interconnexion comme un levier de transition énergétique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Groupe français de BTP",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0019",
+    "actor_id": "actor_0019",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Directeur général de NGE",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-28",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0030"
+    ],
+    "evidence_ids": [
+      "evidence_0133"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Eiffage Énergie Systèmes pose les câbles et fourreaux sur les premiers 21 km de liaison terrestre entre Cléder et La Martyre ; DLE Ouest construit la seconde section ; Eiffage Génie Civil et Fondations ont percé sous la LGV Paris-Brest et l’Élorn.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-28",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0030"
+    ],
+    "evidence_ids": [
+      "evidence_0134"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Hervé Burel décrit les méthodes de chantier d’Eiffage Énergie Systèmes et la réduction annoncée des émissions, avec soudage mobile alimenté sur batteries et utilisation de biocarburant.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-28",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0030"
+    ],
+    "evidence_ids": [
+      "evidence_0135"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Vincent Morice détaille l’installation des modules à deux câbles de puissance HVDC 320 kV, fibres optiques et fourreaux de réserve, à l’aide de tourets de 1,3 à 1,5 km.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-28",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0030"
+    ],
+    "evidence_ids": [
+      "evidence_0133"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Eiffage Énergie Systèmes pose les câbles et fourreaux sur les premiers 21 km de liaison terrestre entre Cléder et La Martyre ; DLE Ouest construit la seconde section ; Eiffage Génie Civil et Fondations ont percé sous la LGV Paris-Brest et l’Élorn.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-28",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0030"
+    ],
+    "evidence_ids": [
+      "evidence_0133"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Eiffage Énergie Systèmes pose les câbles et fourreaux sur les premiers 21 km de liaison terrestre entre Cléder et La Martyre ; DLE Ouest construit la seconde section ; Eiffage Génie Civil et Fondations ont percé sous la LGV Paris-Brest et l’Élorn.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0025",
+    "actor_id": "actor_0025",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0064"
+    ],
+    "evidence_ids": [
+      "evidence_0187"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "La campagne de câblage entre la France et l'Irlande mobilise Nexans, Van Oord et les navires décrits par Mer et Marine ; les campagnes de pose et d'ensouillage doivent être distinguées.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0026",
+    "actor_id": "actor_0026",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Structure porteuse du projet",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0027",
+    "actor_id": "actor_0027",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Groupe d’ingénierie",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0028",
+    "actor_id": "actor_0028",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0060"
+    ],
+    "evidence_ids": [
+      "evidence_0164"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "La BEI distingue une subvention CEF de 530,7 M€, un financement bancaire de 800 M€ (BEI, Danske Bank, BNP, Barclays) et 404 M€ apportés par RTE. Les montants de 530,7 et 800 M€ ne décrivent pas la même nature de financement.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0029",
+    "actor_id": "actor_0029",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Agence exécutive européenne",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0030",
+    "actor_id": "actor_0030",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0063"
+    ],
+    "evidence_ids": [
+      "evidence_0165"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "La CRE et son homologue CRU ont confirmé le 3 novembre 2022 la poursuite du Celtic Interconnector malgré la hausse de son coût de référence à 1 482 M€ ; il s'agit d'une décision régulatoire et non d'un coût final.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0031",
+    "actor_id": "actor_0031",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-08",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0057"
+    ],
+    "evidence_ids": [
+      "evidence_0163"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Alan McSweeney estime dans une analyse personnelle que le coût final pourrait se situer entre 2,1 et 2,8 Md€ ; c'est une projection critique de la gestion et des surcoûts, non un budget approuvé ni une opposition au principe de l'interconnexion.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0032",
+    "actor_id": "actor_0032",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Professeur associé en systèmes électriques (UCC)",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0033",
+    "actor_id": "actor_0033",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Professeur associé (UCD)",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0034",
+    "actor_id": "actor_0034",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "opposants",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Maître de conférences (UCC)",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0035",
+    "actor_id": "actor_0035",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Ministre d’État irlandais chargé notamment de la numérisation",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0036",
+    "actor_id": "actor_0036",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "neutral",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Forum économique réunissant entreprises et décideurs",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0037",
+    "actor_id": "actor_0037",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Chargée de communication RTE ; explique les contraintes d’études et d’ensouillage côté breton.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0038",
+    "actor_id": "actor_0038",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0063"
+    ],
+    "evidence_ids": [
+      "evidence_0165"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "La CRE et son homologue CRU ont confirmé le 3 novembre 2022 la poursuite du Celtic Interconnector malgré la hausse de son coût de référence à 1 482 M€ ; il s'agit d'une décision régulatoire et non d'un coût final.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0039",
+    "actor_id": "actor_0039",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Directeur général d’EirGrid ; signe un protocole de coopération offshore avec RTE.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0040",
+    "actor_id": "actor_0040",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Président du directoire de RTE lors de la signature d’un protocole de coopération avec EirGrid.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0041",
+    "actor_id": "actor_0041",
+    "event_type": "first_documented_appearance",
+    "date": "2023-11-02",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0044"
+    ],
+    "evidence_ids": [
+      "evidence_0125"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Michael Mahon, directeur des infrastructures d’EirGrid, défend le projet pour la sécurité d’approvisionnement et la réduction possible des prix de l’électricité, à l’occasion du démarrage des travaux à Knockraha.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0042",
+    "actor_id": "actor_0042",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Directeur financier d’EirGrid ; rend compte des progrès du chantier en 2025.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Commissaire européenne à l’Énergie en 2022 ; soutien public à Celtic comme projet d’intérêt commun.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0044",
+    "actor_id": "actor_0044",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Sous-traitant de Nexans pour la liaison souterraine côté irlandais en East Cork.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Entreprise mandatée par Nexans pour les études géophysiques et le repérage UXO sur le tracé sous-marin.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0046",
+    "actor_id": "actor_0046",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0058"
+    ],
+    "evidence_ids": [
+      "evidence_0191"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Agnès Pannier-Runacher soutient publiquement l'accord financier et industriel franco-irlandais sur Celtic, qu'elle présente comme contribuant à la sécurité d'approvisionnement et à la transition énergétique.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0047",
+    "actor_id": "actor_0047",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Pas de date de publication fiable dans les preuves actuellement rattachées ; exclu du graphique.",
+    "summary": "Responsable Nexans PWR-Transmission cité dans le communiqué sur le lancement de la campagne française.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_celtic_actor_0048",
+    "actor_id": "actor_0048",
+    "event_type": "first_documented_appearance",
+    "date": "2022-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0069"
+    ],
+    "evidence_ids": [
+      "evidence_0192"
+    ],
+    "confidence": "medium",
+    "date_basis": "Premier repère de publication exploitable relié à cet acteur dans les preuves ; ce n'est pas nécessairement sa première expression publique.",
+    "summary": "Eamon Ryan, ministre irlandais, salue les accords de réalisation de l'interconnexion et son intérêt pour les importations et exportations d'énergie renouvelable.",
+    "is_aggregate": false,
+    "is_media": false
+  }
+]

@@ -2,8 +2,8 @@
   "id": "project_celtic",
   "title": "Cartographie interactive — Celtic Interconnector",
   "subtitle": "Interconnexion France–Irlande de 700 MW ; mise en service annoncée fin 2028 (sous réserve), pause des opérations maritimes françaises jusqu’au printemps 2027.",
-  "last_updated": "2026-11-03",
-  "data_notice": "Audit documentaire rétrospectif du 3 novembre 2026 : distinction des URL consultées directement, des contenus reproduits dans l’Excel et des références historiques sans source. Les positions sont documentées par des déclarations et non déduites de la seule qualité de prestataire ou de bénéficiaire. Les agrégateurs et affirmations non vérifiables ne sont pas des preuves autonomes.",
+  "last_updated": "2026-11-10",
+  "data_notice": "Veille arrêtée au 10 novembre 2026 : distinction des preuves directement consultées, des extraits fournis par tableur et des sources historiques. Les annonces de travaux ne prouvent pas leur exécution. Référentiel différentiel contrôlé et ancienne documentation non sourcée retirée des relations qualifiées.",
   "griefs": [
     {
       "title": "⏱️ Décalage de la mise en service",
@@ -155,6 +155,16 @@
         "source_0045",
         "source_0067"
       ]
+    },
+    {
+      "title": "🎣 Interactions entre travaux et pêche en eaux irlandaises",
+      "text": "Le bulletin maritime du 2 novembre 2026 indique la réouverture de la majeure partie du tracé irlandais aux activités de pêche après la phase 2026 de protection, mais deux zones demeurent temporairement fermées jusqu'à l'achèvement attendu des protections en 2027. Le périmètre maritime français relève de contraintes distinctes.",
+      "evidence_ids": [
+        "evidence_0195"
+      ],
+      "source_ids": [
+        "source_0073"
+      ]
     }
   ],
   "vigilance": [
@@ -163,7 +173,8 @@
     "Financement : la subvention européenne CEF de 530,7 M€ est distincte d’une enveloppe de 800 M€ de financement bancaire. L'affirmation figurant dans une ressource agrégée selon laquelle la Région Bretagne apporte 400 M€ n'est pas étayée et ne doit pas être reprise.",
     "Positions : Jennifer Whitmore soutient la nécessité de l’interconnexion ; Alan McSweeney critique ses coûts, non son existence. Uplift et sa campagne s’opposent aux data centers, sans preuve d’opposition au câble.",
     "Maritime : la pose, la protection par ensouillage et la réparation ponctuelle de câbles sont des opérations distinctes ; la pause française jusqu’au printemps 2027 n’emporte pas l’arrêt du projet tout entier.",
-    "Gouvernance et marché : le portage conjoint RTE–EirGrid et le couplage européen des marchés sont documentés ; l’idée que la Bretagne n’exercerait aucun contrôle ou financerait directement 400 M€ reste une thèse éditoriale non vérifiée."
+    "Gouvernance et marché : le portage conjoint RTE–EirGrid et le couplage européen des marchés sont documentés ; l’idée que la Bretagne n’exercerait aucun contrôle ou financerait directement 400 M€ reste une thèse éditoriale non vérifiée.",
+    "Pêche et navigation en Irlande : les deux secteurs d'exclusion temporaires annoncés le 2 novembre 2026 ne doivent pas être confondus avec une fermeture générale du tracé ; suivre l'achèvement de l'ensouillage en 2027."
   ],
   "source_descriptions": [
     "news.google.com : Agrégateur / reprise de presse. Source de nombreuses reprises d’articles du corpus.",
@@ -208,6 +219,9 @@
       "evidence_0159",
       "evidence_0171",
       "evidence_0169"
+    ],
+    [
+      "evidence_0195"
     ]
   ],
   "documented_project_updates": [
@@ -226,6 +240,21 @@
         "evidence_0164",
         "evidence_0167",
         "evidence_0161"
+      ]
+    },
+    {
+      "title": "Mouvements maritimes au début de novembre",
+      "text": "Un avis maritime annonce l'activité de Nexans Electra du 2 au 6 novembre environ, sous réserve des conditions opérationnelles. Une escale de l'Aethra à Brest est documentée, sans preuve de contrat permanent sur le chantier.",
+      "evidence_ids": [
+        "evidence_0193",
+        "evidence_0194"
+      ]
+    },
+    {
+      "title": "Fin de campagne 2026 et restrictions résiduelles en Irlande",
+      "text": "La campagne 2026 d'ensouillage/protection en eaux irlandaises est annoncée achevée au 2 novembre ; deux zones demeurent temporairement fermées jusqu'à l'achèvement des protections envisagé en 2027.",
+      "evidence_ids": [
+        "evidence_0195"
       ]
     }
   ],
@@ -449,6 +478,153 @@
         "last_updated": "2026-10-02"
       },
       "method": "Deltas justifiés par l'Excel ; les URLs transmises n'ont pas été visitées."
+    },
+    {
+      "date": "2026-11-10",
+      "input": "Celtic(1).xlsx (64 ressources) + avis maritimes externes vérifiés",
+      "reviewed": 64,
+      "source_ids": [
+        "source_0071",
+        "source_0072",
+        "source_0073"
+      ],
+      "evidence_ids": [
+        "evidence_0193",
+        "evidence_0194",
+        "evidence_0195"
+      ],
+      "relations_updated": [
+        "relation_0001",
+        "relation_0002",
+        "relation_0003",
+        "relation_0004",
+        "relation_0006",
+        "relation_0007",
+        "relation_0008",
+        "relation_0009",
+        "relation_0010",
+        "relation_0011",
+        "relation_0012",
+        "relation_0013",
+        "relation_0014",
+        "relation_0017",
+        "relation_0018",
+        "relation_0019",
+        "relation_0020",
+        "relation_0021",
+        "relation_0022",
+        "relation_0023",
+        "relation_0024",
+        "relation_0025",
+        "relation_0026",
+        "relation_0027",
+        "relation_0028",
+        "relation_0029",
+        "relation_0030",
+        "relation_0031",
+        "relation_0032",
+        "relation_0033",
+        "relation_0034",
+        "relation_0035",
+        "relation_0036",
+        "relation_0037",
+        "relation_position_claim_0001",
+        "relation_position_claim_0003",
+        "relation_position_claim_0005",
+        "relation_position_claim_0006",
+        "relation_position_claim_0007",
+        "relation_position_claim_0011",
+        "relation_position_claim_0012",
+        "relation_position_claim_0013",
+        "relation_position_claim_0014",
+        "relation_position_claim_0015",
+        "relation_position_claim_0016",
+        "relation_position_claim_0017",
+        "relation_position_claim_0018",
+        "relation_position_claim_0019",
+        "relation_position_claim_0020",
+        "relation_position_claim_0021",
+        "relation_position_claim_0022",
+        "relation_position_claim_0023",
+        "relation_position_claim_0024",
+        "relation_position_claim_0025",
+        "relation_position_claim_0026",
+        "relation_position_claim_0027",
+        "relation_position_claim_0028",
+        "relation_position_claim_0029",
+        "relation_position_claim_0030",
+        "relation_position_claim_0032",
+        "relation_position_claim_0033",
+        "relation_position_claim_0034"
+      ],
+      "relations_removed": [
+        "relation_0005",
+        "relation_0039",
+        "relation_0053"
+      ],
+      "legacy_unsourced_evidence_removed": [
+        "evidence_0003",
+        "evidence_0005",
+        "evidence_0006",
+        "evidence_0007",
+        "evidence_0011",
+        "evidence_0012",
+        "evidence_0013",
+        "evidence_0014",
+        "evidence_0015",
+        "evidence_0016",
+        "evidence_0017",
+        "evidence_0018",
+        "evidence_0019",
+        "evidence_0020",
+        "evidence_0021",
+        "evidence_0022",
+        "evidence_0023",
+        "evidence_0024",
+        "evidence_0025",
+        "evidence_0026",
+        "evidence_0027",
+        "evidence_0028",
+        "evidence_0029",
+        "evidence_relation_0037",
+        "evidence_relation_0038",
+        "evidence_relation_0039",
+        "evidence_relation_0040",
+        "evidence_relation_0041",
+        "evidence_relation_0042",
+        "evidence_relation_0043",
+        "evidence_relation_0044",
+        "evidence_relation_0045",
+        "evidence_relation_0046",
+        "evidence_relation_0047",
+        "evidence_relation_0048",
+        "evidence_relation_0049",
+        "evidence_relation_0050",
+        "evidence_relation_0053",
+        "evidence_relation_0054",
+        "evidence_relation_0055",
+        "evidence_relation_0056",
+        "evidence_relation_0057",
+        "evidence_relation_0058",
+        "evidence_relation_0059",
+        "evidence_relation_0060",
+        "evidence_relation_0061",
+        "evidence_relation_0062",
+        "evidence_relation_0063",
+        "evidence_relation_0064",
+        "evidence_relation_0065",
+        "evidence_relation_0066",
+        "evidence_relation_0067",
+        "evidence_relation_0068",
+        "evidence_relation_0069",
+        "evidence_relation_0070",
+        "evidence_relation_0071",
+        "evidence_relation_0072",
+        "evidence_relation_0073",
+        "evidence_relation_0075",
+        "evidence_relation_0089"
+      ],
+      "method": "Comparaison à la base arrêtée au 2026-11-03 ; seuls nouveaux faits et corrections de traçabilité étayés. Pages Le Télégramme reprises uniquement depuis le tableur."
     }
   ]
 }

@@ -1,0 +1,917 @@
+{
+  "project": "Celtic Interconnector",
+  "date": "2026-11-10",
+  "base": "GitHub main, base 2026-11-03",
+  "input": "Celtic(1).xlsx",
+  "excel_rows": 64,
+  "baseline": {
+    "actors": 72,
+    "claims": 45,
+    "evidence": 149,
+    "relations": 119,
+    "sources": 53
+  },
+  "output": {
+    "actors": 71,
+    "claims": 45,
+    "evidence": 92,
+    "relations": 116,
+    "sources": 56
+  },
+  "added_sources": [
+    "source_0071",
+    "source_0072",
+    "source_0073"
+  ],
+  "added_evidence": [
+    "evidence_0193",
+    "evidence_0194",
+    "evidence_0195"
+  ],
+  "created_actor_ids": [],
+  "created_claim_ids": [],
+  "changed_relations": [
+    {
+      "id": "relation_0001",
+      "old_type": "leads",
+      "new_type": "leads",
+      "old_evidence_ids": [
+        "evidence_relation_0037"
+      ],
+      "new_evidence_ids": [
+        "evidence_0171"
+      ]
+    },
+    {
+      "id": "relation_0002",
+      "old_type": "leads",
+      "new_type": "leads",
+      "old_evidence_ids": [
+        "evidence_relation_0038"
+      ],
+      "new_evidence_ids": [
+        "evidence_0171"
+      ]
+    },
+    {
+      "id": "relation_0003",
+      "old_type": "leads",
+      "new_type": "leads",
+      "old_evidence_ids": [
+        "evidence_relation_0039"
+      ],
+      "new_evidence_ids": [
+        "evidence_0194",
+        "evidence_0136"
+      ]
+    },
+    {
+      "id": "relation_0004",
+      "old_type": "funds",
+      "new_type": "funds",
+      "old_evidence_ids": [
+        "evidence_relation_0040"
+      ],
+      "new_evidence_ids": [
+        "evidence_0142",
+        "evidence_0164"
+      ]
+    },
+    {
+      "id": "relation_0006",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0042"
+      ],
+      "new_evidence_ids": [
+        "evidence_0165"
+      ]
+    },
+    {
+      "id": "relation_0007",
+      "old_type": "criticizes",
+      "new_type": "criticizes",
+      "old_evidence_ids": [
+        "evidence_relation_0043"
+      ],
+      "new_evidence_ids": [
+        "evidence_0116"
+      ]
+    },
+    {
+      "id": "relation_0008",
+      "old_type": "criticizes",
+      "new_type": "criticizes",
+      "old_evidence_ids": [
+        "evidence_relation_0044"
+      ],
+      "new_evidence_ids": [
+        "evidence_0154"
+      ]
+    },
+    {
+      "id": "relation_0009",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0045"
+      ],
+      "new_evidence_ids": [
+        "evidence_0155"
+      ]
+    },
+    {
+      "id": "relation_0010",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0046"
+      ],
+      "new_evidence_ids": [
+        "evidence_0157"
+      ]
+    },
+    {
+      "id": "relation_0011",
+      "old_type": "position_on",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_relation_0047"
+      ],
+      "new_evidence_ids": [
+        "evidence_0156"
+      ]
+    },
+    {
+      "id": "relation_0012",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0048"
+      ],
+      "new_evidence_ids": [
+        "evidence_0158"
+      ]
+    },
+    {
+      "id": "relation_0013",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0049"
+      ],
+      "new_evidence_ids": [
+        "evidence_0117"
+      ]
+    },
+    {
+      "id": "relation_0014",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0050"
+      ],
+      "new_evidence_ids": [
+        "evidence_0159",
+        "evidence_0160"
+      ]
+    },
+    {
+      "id": "relation_0017",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0053"
+      ],
+      "new_evidence_ids": [
+        "evidence_0123",
+        "evidence_0124"
+      ]
+    },
+    {
+      "id": "relation_0018",
+      "old_type": "funds",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0054"
+      ],
+      "new_evidence_ids": [
+        "evidence_0123"
+      ]
+    },
+    {
+      "id": "relation_0019",
+      "old_type": "institutional_link",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0055"
+      ],
+      "new_evidence_ids": [
+        "evidence_0123"
+      ]
+    },
+    {
+      "id": "relation_0020",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0056"
+      ],
+      "new_evidence_ids": [
+        "evidence_0112"
+      ]
+    },
+    {
+      "id": "relation_0021",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0057"
+      ],
+      "new_evidence_ids": [
+        "evidence_0132"
+      ]
+    },
+    {
+      "id": "relation_0022",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_relation_0058"
+      ],
+      "new_evidence_ids": [
+        "evidence_0112"
+      ]
+    },
+    {
+      "id": "relation_0023",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_relation_0059"
+      ],
+      "new_evidence_ids": [
+        "evidence_0110"
+      ]
+    },
+    {
+      "id": "relation_0024",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0060"
+      ],
+      "new_evidence_ids": [
+        "evidence_0109",
+        "evidence_0126"
+      ]
+    },
+    {
+      "id": "relation_0025",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0061"
+      ],
+      "new_evidence_ids": [
+        "evidence_0126",
+        "evidence_0161"
+      ]
+    },
+    {
+      "id": "relation_0026",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0062"
+      ],
+      "new_evidence_ids": [
+        "evidence_0130"
+      ]
+    },
+    {
+      "id": "relation_0027",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0063"
+      ],
+      "new_evidence_ids": [
+        "evidence_0161",
+        "evidence_0162"
+      ]
+    },
+    {
+      "id": "relation_0028",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0064"
+      ],
+      "new_evidence_ids": [
+        "evidence_0131"
+      ]
+    },
+    {
+      "id": "relation_0029",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0065"
+      ],
+      "new_evidence_ids": [
+        "evidence_0133"
+      ]
+    },
+    {
+      "id": "relation_0030",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0066"
+      ],
+      "new_evidence_ids": [
+        "evidence_0134"
+      ]
+    },
+    {
+      "id": "relation_0031",
+      "old_type": "represents",
+      "new_type": "represents",
+      "old_evidence_ids": [
+        "evidence_relation_0067"
+      ],
+      "new_evidence_ids": [
+        "evidence_0135"
+      ]
+    },
+    {
+      "id": "relation_0032",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0068"
+      ],
+      "new_evidence_ids": [
+        "evidence_0133"
+      ]
+    },
+    {
+      "id": "relation_0033",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0069"
+      ],
+      "new_evidence_ids": [
+        "evidence_0133"
+      ]
+    },
+    {
+      "id": "relation_0034",
+      "old_type": "represents",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0070"
+      ],
+      "new_evidence_ids": [
+        "evidence_0129"
+      ]
+    },
+    {
+      "id": "relation_0035",
+      "old_type": "represents",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0071"
+      ],
+      "new_evidence_ids": [
+        "evidence_0129"
+      ]
+    },
+    {
+      "id": "relation_0036",
+      "old_type": "represents",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0072"
+      ],
+      "new_evidence_ids": [
+        "evidence_0136"
+      ]
+    },
+    {
+      "id": "relation_0037",
+      "old_type": "leads",
+      "new_type": "institutional_link",
+      "old_evidence_ids": [
+        "evidence_relation_0073"
+      ],
+      "new_evidence_ids": [
+        "evidence_0136"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0001",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0116"
+      ],
+      "new_evidence_ids": [
+        "evidence_0116",
+        "evidence_0176"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0003",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0003"
+      ],
+      "new_evidence_ids": [
+        "evidence_0155"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0005",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0005"
+      ],
+      "new_evidence_ids": [
+        "evidence_0158"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0006",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0006"
+      ],
+      "new_evidence_ids": [
+        "evidence_0117",
+        "evidence_0176"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0007",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0007"
+      ],
+      "new_evidence_ids": [
+        "evidence_0159"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0011",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0011"
+      ],
+      "new_evidence_ids": [
+        "evidence_0107",
+        "evidence_0108",
+        "evidence_0111",
+        "evidence_0114",
+        "evidence_0115",
+        "evidence_0121",
+        "evidence_0122",
+        "evidence_0123",
+        "evidence_0124",
+        "evidence_0125",
+        "evidence_0138",
+        "evidence_0139",
+        "evidence_0144",
+        "evidence_0145",
+        "evidence_0168",
+        "evidence_0167",
+        "evidence_0164"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0012",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0012"
+      ],
+      "new_evidence_ids": [
+        "evidence_0104",
+        "evidence_0105",
+        "evidence_0106",
+        "evidence_0109",
+        "evidence_0110",
+        "evidence_0111",
+        "evidence_0112",
+        "evidence_0114",
+        "evidence_0138",
+        "evidence_0139",
+        "evidence_0144",
+        "evidence_0145",
+        "evidence_0146",
+        "evidence_0147",
+        "evidence_0149",
+        "evidence_0150",
+        "evidence_0151",
+        "evidence_0166",
+        "evidence_0164"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0013",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0013"
+      ],
+      "new_evidence_ids": [
+        "evidence_0112",
+        "evidence_0166"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0014",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0014"
+      ],
+      "new_evidence_ids": [
+        "evidence_0106",
+        "evidence_0110",
+        "evidence_0114",
+        "evidence_0132",
+        "evidence_0166"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0015",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0015"
+      ],
+      "new_evidence_ids": [
+        "evidence_0107",
+        "evidence_0109",
+        "evidence_0111",
+        "evidence_0113",
+        "evidence_0126",
+        "evidence_0127",
+        "evidence_0128",
+        "evidence_0129",
+        "evidence_0133",
+        "evidence_0137",
+        "evidence_0149",
+        "evidence_0150",
+        "evidence_0151",
+        "evidence_0152",
+        "evidence_0187"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0016",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0016"
+      ],
+      "new_evidence_ids": [
+        "evidence_0126",
+        "evidence_0130"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0017",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0017"
+      ],
+      "new_evidence_ids": [
+        "evidence_0161",
+        "evidence_0162"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0018",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0018"
+      ],
+      "new_evidence_ids": [
+        "evidence_0130",
+        "evidence_0131"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0019",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0019"
+      ],
+      "new_evidence_ids": [
+        "evidence_0131"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0020",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0020"
+      ],
+      "new_evidence_ids": [
+        "evidence_0133",
+        "evidence_0134",
+        "evidence_0135"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0021",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0021"
+      ],
+      "new_evidence_ids": [
+        "evidence_0134"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0022",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0022"
+      ],
+      "new_evidence_ids": [
+        "evidence_0135"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0023",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0023"
+      ],
+      "new_evidence_ids": [
+        "evidence_0133"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0024",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0024"
+      ],
+      "new_evidence_ids": [
+        "evidence_0133"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0025",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0025"
+      ],
+      "new_evidence_ids": [
+        "evidence_0129",
+        "evidence_0187"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0026",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0026"
+      ],
+      "new_evidence_ids": [
+        "evidence_0128",
+        "evidence_0129",
+        "evidence_0136"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0027",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0027"
+      ],
+      "new_evidence_ids": [
+        "evidence_0136"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0028",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0028"
+      ],
+      "new_evidence_ids": [
+        "evidence_0142",
+        "evidence_0143",
+        "evidence_0111",
+        "evidence_0112",
+        "evidence_0164"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0029",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0029"
+      ],
+      "new_evidence_ids": [
+        "evidence_0142",
+        "evidence_0111",
+        "evidence_0112"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0030",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0144",
+        "evidence_0145"
+      ],
+      "new_evidence_ids": [
+        "evidence_0144",
+        "evidence_0145",
+        "evidence_0165"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0032",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0118"
+      ],
+      "new_evidence_ids": [
+        "evidence_0118",
+        "evidence_0176"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0033",
+      "old_type": "supports",
+      "new_type": "supports",
+      "old_evidence_ids": [
+        "evidence_0119"
+      ],
+      "new_evidence_ids": [
+        "evidence_0119",
+        "evidence_0176"
+      ]
+    },
+    {
+      "id": "relation_position_claim_0034",
+      "old_type": "position_on",
+      "new_type": "position_on",
+      "old_evidence_ids": [
+        "evidence_0120"
+      ],
+      "new_evidence_ids": [
+        "evidence_0120",
+        "evidence_0176"
+      ]
+    }
+  ],
+  "removed_relations": [
+    {
+      "id": "relation_0005",
+      "reason": "Relation CINEA non reliée à une preuve spécifique"
+    },
+    {
+      "id": "relation_0039",
+      "reason": "Relation d'analyste à EirGrid improprement typée documented_by"
+    },
+    {
+      "id": "relation_0053",
+      "reason": "Agrégateur sans source primaire"
+    }
+  ],
+  "legacy_unqualified_evidence_removed": [
+    "evidence_0003",
+    "evidence_0005",
+    "evidence_0006",
+    "evidence_0007",
+    "evidence_0011",
+    "evidence_0012",
+    "evidence_0013",
+    "evidence_0014",
+    "evidence_0015",
+    "evidence_0016",
+    "evidence_0017",
+    "evidence_0018",
+    "evidence_0019",
+    "evidence_0020",
+    "evidence_0021",
+    "evidence_0022",
+    "evidence_0023",
+    "evidence_0024",
+    "evidence_0025",
+    "evidence_0026",
+    "evidence_0027",
+    "evidence_0028",
+    "evidence_0029",
+    "evidence_relation_0037",
+    "evidence_relation_0038",
+    "evidence_relation_0039",
+    "evidence_relation_0040",
+    "evidence_relation_0041",
+    "evidence_relation_0042",
+    "evidence_relation_0043",
+    "evidence_relation_0044",
+    "evidence_relation_0045",
+    "evidence_relation_0046",
+    "evidence_relation_0047",
+    "evidence_relation_0048",
+    "evidence_relation_0049",
+    "evidence_relation_0050",
+    "evidence_relation_0053",
+    "evidence_relation_0054",
+    "evidence_relation_0055",
+    "evidence_relation_0056",
+    "evidence_relation_0057",
+    "evidence_relation_0058",
+    "evidence_relation_0059",
+    "evidence_relation_0060",
+    "evidence_relation_0061",
+    "evidence_relation_0062",
+    "evidence_relation_0063",
+    "evidence_relation_0064",
+    "evidence_relation_0065",
+    "evidence_relation_0066",
+    "evidence_relation_0067",
+    "evidence_relation_0068",
+    "evidence_relation_0069",
+    "evidence_relation_0070",
+    "evidence_relation_0071",
+    "evidence_relation_0072",
+    "evidence_relation_0073",
+    "evidence_relation_0075",
+    "evidence_relation_0089"
+  ],
+  "changes_to_meta": {
+    "old_last_updated": "2026-11-03",
+    "new_last_updated": "2026-11-10",
+    "griefs_added": 1,
+    "vigilance_added": 1,
+    "documented_project_updates_added": 2
+  },
+  "new_files": [
+    "data/content.json",
+    "data/timeline.json",
+    "assets/js/evolution.js",
+    "assets/css/evolution.css"
+  ],
+  "five_tabs": [
+    "Cartographie des acteurs",
+    "Synthèse des oppositions",
+    "Points de vigilance & sources",
+    "Chronologie",
+    "Évolution des acteurs"
+  ],
+  "timeline": {
+    "total": 48,
+    "dated": 25,
+    "undated": 23
+  },
+  "vigilance": [
+    "Page du Télégramme inaccessible directement : contenu uniquement lu dans Celtic(1).xlsx.",
+    "Nouvelle campagne Nexans Electra annoncée ; achèvement non prouvé.",
+    "Le statut d'Aethra comme sous-traitant de Celtic n'est pas établi.",
+    "Décalage entre anciens documents RTE/Eiffage et dernière prévision EirGrid T4 2028 ; ne pas substituer les estimations.",
+    "Premières apparitions d'acteurs : graphique incomplet lorsque la publication n'est pas datable."
+  ],
+  "sources_access": {
+    "direct": [
+      "source_0072",
+      "source_0073"
+    ],
+    "excel_only": [
+      "source_0071"
+    ]
+  },
+  "validation_protocol": "Contrôle en mémoire des clés, preuves liées, taxonomie, source URL, références croisées, unicité et 5 onglets avant commit."
+}

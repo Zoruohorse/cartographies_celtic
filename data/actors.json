@@ -592,22 +592,6 @@
     "updated_at": "2026-10-02"
   },
   {
-    "id": "entity_0038",
-    "type": "media",
-    "name": "news.google.com",
-    "short_name": "news.google.com",
-    "description": "Agrégateur / reprise de presse.",
-    "roles": [
-      {
-        "label": "Médias / sources"
-      }
-    ],
-    "categories": [
-      "sources"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
     "id": "entity_0039",
     "type": "media",
     "name": "The Irish Times",
